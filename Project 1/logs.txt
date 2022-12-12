@@ -1,0 +1,5066 @@
+C:\RA\Project 1>python webscrapper1.py
+1  -   13th District GOP slate
+2  -   18% of the American public
+3  -   60 Plus Association
+4  -   AARP
+5  -  Greg Abbott
+6  -  Kareem Abdul-Jabbar
+7  -  Huma Abedin
+8  -  Chris Abele
+9  -  Stacey Abrams
+10  -   Accountability in Government
+11  -  Steve Acenbrak
+12  -  Art Acevedo
+13  -   ACLU Foundation of Georgia
+14  -   ACLU of North Carolina
+15  -   Act for America
+16  -  ClearPath Action Fund
+17  -   Activist Mommy
+18  -  Matt Adamczyk
+19  -  Alma Adams
+20  -  Michael Adams
+21  -  Jerome Adams
+22  -  Sam Adams
+23  -  J. Christian Adams
+24  -  Sandy Adams
+25  -  Mike Adams
+26  -  Cathie Adams
+27  -  John Adcock
+28  -   Addicting Information
+29  -  Janet Adkins
+30  -  Shelley Adler
+31  -  Steve Adler
+32  -  Yolanda Adrean
+33  -  Steve Adubato Jr.
+34  -   Advancing American Freedom
+35  -   Advancing Wisconsin
+36  -  Ben Affleck
+37  -   AFL-CIO
+38  -   AFL-CIO of New Jersey
+39  -   AFSCME
+40  -   AFSCME People
+41  -  Citizens Against Rail Taxes
+42  -  Marisha Agana
+43  -  Melissa Agard
+44  -  Islamic Republic News Agency
+45  -  Larry Ahern
+46  -  Mahmoud Ahmadinejad
+47  -  Clay Aiken
+48  -  Doug Ainge
+49  -  Edith Ajello
+50  -   Alabama's Future
+51  -  David Alameel
+52  -  Akbar Al Baker
+53  -  Sal Albanese
+54  -  John Albers
+55  -  Madeleine Albright
+56  -  Luis Alejo
+57  -  J.D. Alexander
+58  -  Keith Alexander
+59  -  Lamar Alexander
+60  -  Kelly Alexander
+61  -  Harry Alford
+62  -  Dennis Algiere
+63  -   Al Jazeera America
+64  -  Travis Allen
+65  -  George Allen
+66  -  Ken Allen
+67  -  Rick Allen
+68  -  Diane Allen
+69  -  Allen Alley
+70  -   Alliance Defending Freedom
+71  -   Alliance for America's Future
+72  -   Alliance for Retired Americans
+73  -  Colin Allred
+74  -  Ernest Almonte
+75  -  Roberto Alonzo
+76  -   AlternativePAC
+77  -  Thad Altman
+78  -  Carol Alvarado
+79  -   Amalgamated Transit Union
+80  -  Justin Amash
+81  -  Jeff Amason
+82  -  Oxfam America
+83  -   America First Political Committee
+84  -   American Action Network
+85  -   American Automobile Association
+86  -   American Beverage Association
+87  -   American Bird Conservancy
+88  -   American Bridge 21st Century
+89  -   American Civil Liberties Union
+90  -   American Civil Liberties Union of Florida
+91  -   American Civil Liberties Union of New Jersey
+92  -   American Commitment
+93  -   American Crossroads
+94  -   American Energy Alliance
+95  -  One America News
+96  -   American Federation for Children
+97  -   American Future Fund
+98  -   American International Group
+99  -   American Israel Public Affairs Committee
+100  -   AmericanJournalReview.com
+---- saved progress -----
+101  -   American Leadership Action
+102  -   American LeadHERship PAC
+103  -   American Life League
+104  -   AmericanNews.com
+105  -   American Petroleum Institute
+106  -   AmericanPoliticNews
+107  -   American Postal Workers Union
+108  -   American Principles in Action
+109  -   American Principles Project
+110  -   American Prosperity Alliance
+111  -   Americanproud.info
+112  -   American Revolution
+113  -   Americans Against Food Taxes
+114  -   Americans for a Strong Defense
+115  -   Americans for Common Sense Solutions
+116  -   Americans for Job Security
+117  -   Americans for Prosperity
+118  -   Americans for Prosperity: Florida
+119  -   Americans for Prosperity Georgia chapter
+120  -   Americans for Prosperity: New Jersey
+121  -   Americans For Prosperity, North Carolina chapter
+122  -   Americans for Responsible Solutions
+123  -   Americans for Safe Access
+124  -   Americans For Tax Reform
+125  -   Americans United for Change
+126  -   Americans United for Life
+127  -   American Unity PAC
+128  -   America's Health Insurance Plans
+129  -   America's Natural Gas Alliance
+130  -   Americas PAC
+131  -   America Today
+132  -   AmeriPAC
+133  -  Elizabeth Ames Jones
+134  -  Ron Amstutz
+135  -  Rafael Anchia
+136  -  Shirley Anderson
+137  -  Brian Anderson
+138  -  Jimmy Anderson
+139  -  Thomas Anderson
+140  -  Allen Andrews
+141  -  Rob Andrews
+142  -  Joseph Andriole
+143  -  Kathleen Angelucci
+144  -  Sharron Angle
+145  -  Ted Ankrum
+146  -  Kofi Annan
+147  -  Frank Annunziato
+148  -   Anonymous Activist
+149  -   Anonymous Caller
+150  -   Anonymous cyber-squatter
+151  -   Anonymous Flier
+152  -   Anonymous GOP critics
+153  -  Aziz Ansari
+154  -   Anti-Defamation League
+155  -   AntiNews.in
+156  -   Antiwar.com
+157  -  Nickie Antonio
+158  -  Julaine Appling
+159  -  Stephen Archambault
+160  -  Natalyn Archibong
+161  -  Texans Are
+162  -  Diego Arene-Morley
+163  -   Arizona Citizens Defense League
+164  -   Arizona Grassroots Action PAC
+165  -   Arizonans for Responsible Drug Policy
+166  -  Saving Arizona PAC
+167  -  Dick Armey
+168  -  Ward Armstrong
+169  -  Dave Aronberg
+170  -  Dean Arp
+171  -  Joe Arpaio
+172  -   AsAmericanAsApplePie.org
+173  -  Jay Ashcroft
+174  -  Larry Ashley
+175  -  Casey Askar
+176  -  Reza Aslan
+177  -  Julian Assange
+178  -  Mark Assini
+179  -   Associated Industries of Florida
+180  -  GSU Alumni Association
+181  -   Association of Mature American Citizens
+182  -  Rob Astorino
+183  -  Robert Astorino
+184  -   A Stronger Wisconsin
+185  -   Athens Banner-Herald
+186  -  Joe Atkins
+187  -   Atlanta Braves
+188  -   Atlanta Journal-Constitution
+189  -   Atlanta neighborhood association
+190  -   Atlanta Police Foundation
+191  -   Atlanta Sports Council
+192  -  Gayle Atteberry
+193  -  Jeff Atwater
+194  -  James Aubin
+195  -  Richard August
+196  -  Loranne Ausley
+197  -  Bike Austin
+198  -  City of Austin
+199  -   Austin Board of Realtors PAC
+200  -   Austin for a Better Future
+---- saved progress -----
+201  -   Austin Fund for Quality Healthcare
+202  -   Austinites for Geographic Representation
+203  -   Austin Water Utility
+204  -  Texas Automobile Dealers Association
+205  -  Brad Avakian
+206  -  David Axelrod
+207  -  John Axford
+208  -  Cindy Axne
+209  -   Ax The Bev Tax
+210  -  Carla Axtman
+211  -  Jimmie Don Aycock
+212  -  Kelly Ayotte
+213  -  Alex Azar
+214  -  Paul Babeu
+215  -   Baby Got PAC
+216  -   Babylon Bee
+217  -  Dino Baccari
+218  -  Michele Bachmann
+219  -  Spencer Bachus
+220  -   Back to Basics
+221  -  Don Bacon
+222  -  Bret Baier
+223  -  Scott Baio
+224  -  Charlie Baird
+225  -  Thurbert Baker
+226  -  Rick Baker
+227  -  Graham Balch
+228  -  Lisa Baldelli-Hunt
+229  -  Troy Balderson
+230  -  Chuck Baldwin
+231  -  Tammy Baldwin
+232  -  Don Balfour
+233  -  Adan Ballesteros
+234  -  Jim Banks
+235  -  Steve Bannon
+236  -  Trebor Banstetter
+237  -   Ban the Box RI
+238  -  Justin Barasky
+239  -  William Barber
+240  -  Robert Barber
+241  -  Rick Barber
+242  -  Haley Barbour
+243  -  Peter Barca
+244  -  Kedron Bardwell
+245  -  John Barge
+246  -  George Barker
+247  -  Jim Barksdale
+248  -  Lou Barletta
+249  -  Roy Barnes
+250  -  Mandela Barnes
+251  -  Sharon Barnes Sutton
+252  -  Kathy Barnette
+253  -  Bob Barr
+254  -  William Barr
+255  -  John Barrasso
+256  -  Vincent Barrella
+257  -  Tom Barrett
+258  -  Jimmy Barrett
+259  -  Tom Barrett
+260  -  Gonzalo Barrientos
+261  -  John Barrow
+262  -  Maria Bartiromo
+263  -  Joe Barton
+264  -  Brent Barton
+265  -  David Barton
+266  -  Jeff Bartos
+267  -  Dana Bash
+268  -   Basic Rights Oregon
+269  -  Karen Bass
+270  -  Charles Bass
+271  -  Sydney Batch
+272  -  William G. Batchelder
+273  -  Raymond Bateman
+274  -  Alan Bates
+275  -  Mark Batinick
+276  -   Battleground Texas
+277  -  Kurt Bauer
+278  -  Jon “Bowzer” Bauman
+279  -  Dennis Baxley
+280  -  Tim Baxter
+281  -  Evan Bayh
+282  -  Angela Bean
+283  -  Jason Beardsley
+284  -   Bear Education and Resource Group
+285  -  Cheri Beasley
+286  -  Chaz Beasley
+287  -  Joyce Beatty
+288  -  Heather Beaven
+289  -   Beaverton
+290  -  Xavier Becerra
+291  -  Glenn Beck
+292  -  Scott Beck
+293  -  Jennifer Beck
+294  -  Bob Beckel
+295  -  Dan Becker
+296  -  David Beckham
+297  -   Becoming American Initiative
+298  -  Paul Bedard
+299  -  Samantha Bee
+300  -  Paul Begala
+---- saved progress -----
+301  -  Mark Begich
+302  -  Joy Behar
+303  -  Marty Beil
+304  -  Peter Beinart
+305  -  Bill Belichick
+306  -  James Bell
+307  -  Mark Belling
+308  -  Rebecca Bell-Metereau
+309  -  Lizbeth Benacquisto
+310  -  Lauren Benedict
+311  -  Regina Benjamin
+312  -  Michael Bennet
+313  -  Mike Bennett
+314  -  Bob Bennett
+315  -  Robert Bennett
+316  -  Bill Bennett
+317  -  James Bennett
+318  -  Jocelyn Benson
+319  -  Holly Benson
+320  -  Ami Bera
+321  -  Alex Berenson
+322  -  Phil Berger
+323  -  Ron Bergeron
+324  -  Charlotte Bergmann
+325  -  Andy Berke
+326  -  John Berlau
+327  -  Mike Berlon
+328  -  Leo Berman
+329  -  Penny Bernard Schaber
+330  -  Joe Berrios
+331  -  Jack Berry
+332  -  Carlos Beruff
+333  -  Richard Besser
+334  -  Sally Bethea
+335  -  Charlie Bethel
+336  -  Paul Bettencourt
+337  -   Better Austin Today
+338  -   Better Future Michigan
+339  -  Matt Bevin
+340  -  Janet Bewley
+341  -  Don Beyer
+342  -  Jeff Bezos
+343  -  Chad Bicknell
+344  -  Joe Biden
+345  -   Big Gamble NJ
+346  -  Andy Biggs
+347  -   Big League Politics
+348  -   BikePortland.org
+349  -  Carl Bildt
+350  -  Gus Bilirakis
+351  -   Billboard
+352  -   BillHislam.com
+353  -   Bipartisan Report
+354  -  Jeremy Bird
+355  -  Brian Birdwell
+356  -  Matthew Birmingham
+357  -  JoAnn Birrell
+358  -  Mike Bishop
+359  -  Barney Bishop
+360  -  Dan Bishop
+361  -  Sanford Bishop
+362  -  Daniel Biss
+363  -  Brett Bittner
+364  -  Ben Bius
+365  -  Diane Black
+366  -  Gary Black
+367  -  Dick Black
+368  -  Marsha Blackburn
+369  -  Christina Blackcloud
+370  -   BlackInsuranceNews.com
+371  -   Black Lives Matter
+372  -  Ken Blackwell
+373  -  Rod Blagojevich
+374  -  Lisa Blais
+375  -  Brad Blakeman
+376  -  César Blanco
+377  -  Rebecca Blank
+378  -  Don Blankenship
+379  -  Christopher Blazejewski
+380  -   Bling News
+381  -  Wolf Blitzer
+382  -  Kenneth Block
+383  -  Trey Blocker
+384  -   Bloggers
+385  -  Lisa Bloom
+386  -  Michael Bloomberg
+387  -   Bloomberg.com
+388  -  Kevin Bloye
+389  -  Dan Blue
+390  -   Bluedot Daily
+391  -   BlueNC
+392  -   Blue Oregon
+393  -  Rod Blum
+394  -  Earl Blumenauer
+395  -  Richard Blumenthal
+396  -  Roy Blunt
+397  -   B.o.B.
+398  -  John Boccieri
+399  -  Mike Bodker
+400  -  Lauren Boebert
+---- saved progress -----
+401  -  John Boehner
+402  -  Ellyn Bogdanoff
+403  -  Jack Bogdanski
+404  -  Jim Bognet
+405  -  Dwayne Bohac
+406  -  Jim Bohl
+407  -  David Boies
+408  -  Kitty Boitnott
+409  -  Eric Bolling
+410  -  Chris Bollwage
+411  -  Usain Bolt
+412  -  John Bolton
+413  -  Valinda Bolton
+414  -  Suzanne Bonamici
+415  -  Julian Bond
+416  -  Michael Julian Bond
+417  -  Pam Bondi
+418  -  Barry Bone
+419  -  Dan Bongino
+420  -  Dennis Bonnen
+421  -   Bono
+422  -  Ron Book
+423  -  Cory Booker
+424  -   BookerFail
+425  -  Pat Boone
+426  -  Lisa Boothe
+427  -  John Boozman
+428  -  Dan Boren
+429  -  Mark Born
+430  -   BornAliveTruth.org
+431  -  Andy Borowitz
+432  -  George Borrello
+433  -  Tom Bossert
+434  -  Mike Bost
+435  -  Beverly Boswell
+436  -  Keisha Lance Bottoms
+437  -  Jonathan Boucher
+438  -  Rick Boucher
+439  -  Charles Boustany
+440  -  Rob Bovett
+441  -  David Bowen
+442  -  Chris Bowers
+443  -  Jamaal Bowman
+444  -  Nikki Bowmar
+445  -  Barbara Boxer
+446  -  Kevin Boyce
+447  -  Allen Boyd
+448  -  Elaine Boyer
+449  -  Brendan Boyle
+450  -  Jennifer Boysko
+451  -  Randolph Bracy
+452  -  Barth Bracy
+453  -  Bill Bradbury
+454  -  Kathryn Moffett Bradford
+455  -  Rebecca Bradley
+456  -  Julian Bradley
+457  -  John Bradley
+458  -  Bill Brady
+459  -  Eileen Brady
+460  -  Tom Brady
+461  -  Kevin Brady
+462  -   Brady Campaign to Prevent Gun Violence
+463  -  Bruce Braley
+464  -  Jon Bramnick
+465  -  Dan Branch
+466  -  Russell Brand
+467  -  Jeff Brandes
+468  -  Janel Brandtjen
+469  -  Dave Brat
+470  -  Mike Braun
+471  -  Donna Brazile
+472  -   BreakingNews247.net
+473  -  Phil Bredesen
+474  -  Drew Brees
+475  -  Brittany Brees
+476  -   Breitbart
+477  -  Eli Bremer
+478  -  Ian Bremmer
+479  -  Jan Brewer
+480  -  Parker Briden
+481  -  Jim Bridenstine
+482  -  Jeff Bridges
+483  -  Jon Brien
+484  -  Anthony Brindisi
+485  -  Karen Brinson Bell
+486  -  Morgan Brittany
+487  -  Mark Brnovich
+488  -  Mark Brodeur
+489  -  Jason Brodeur
+490  -  Frank Brogan
+491  -   Brookhaven
+492  -  Cornell William Brooks
+493  -  Jace Brooks
+494  -  David Brooks
+495  -  Tyrone Brooks
+496  -  Mo Brooks
+497  -  Jonathan Brostoff
+498  -  Paul Broun
+499  -   Broward County Medical Association
+500  -   Broward County Police Benevolent Association
+---- saved progress -----
+501  -   Broward Democratic Executive Committee
+502  -   Broward Republican Executive Committee
+503  -  Jeffrey Brown
+504  -  Kate Brown
+505  -  Robert Brown
+506  -  Jordan Brown
+507  -  Steven Brown
+508  -  Scott Brown
+509  -  Steve Brown
+510  -  Andy Brown
+511  -  Joe Brown
+512  -  Byron Brown
+513  -  Jerry Brown
+514  -  John Brown
+515  -  Corrine Brown
+516  -  Dorothy Brown
+517  -  James Brown
+518  -  Sherrod Brown
+519  -  Thomas Brown
+520  -  Harry Brown
+521  -  Sam Brownback
+522  -  Carol Browner
+523  -  Kurt Browning
+524  -  Ronald Brownstein
+525  -  Ginny Brown-Waite
+526  -  Scott Bruun
+527  -  Terri Bryant
+528  -  Randy Bryce
+529  -  Mika Brzezinski
+530  -  Anthony Bucco
+531  -  James Buchal
+532  -  Vern Buchanan
+533  -  Pat Buchanan
+534  -  Ken Buck
+535  -  Bob Buckhorn
+536  -  Dawn Buckingham
+537  -  Allen Buckley
+538  -  Gail Buckner
+539  -  Steve Buckstein
+540  -  John Bucy III
+541  -  Ted Budd
+542  -  Armond Budish
+543  -  Knute Buehler
+544  -  Ann Marie Buerkle
+545  -  Warren Buffett
+546  -   Building a Better Ohio
+547  -  Steve Bullock
+548  -   Bumper Sticker
+549  -  Barbara Buono
+550  -  Ginny Burdick
+551  -  U.S. Census Bureau
+552  -   Burger King
+553  -  Michael Burgess
+554  -  Josh Burgin
+555  -  Stu Burguiere
+556  -  Mary Burke
+557  -  Eric Burlison
+558  -  Lon Burnam
+559  -  Erin Burnett
+560  -  Tim Burns
+561  -  Nicholas Burns
+562  -   Burnt Orange Report
+563  -  Richard Burr
+564  -  Phil Burress
+565  -  Bill Burton
+566  -  John Burton
+567  -  John Burzichelli
+568  -  George W. Bush
+569  -  George P. Bush
+570  -  Cori Bush
+571  -  Jeb Bush
+572  -  John Buss
+573  -  Jerome Buting
+574  -  Mark Butler
+575  -  Marc Butler
+576  -  Deb Butler
+577  -  Pete Buttigieg
+578  -  Viral BuzzFeed
+579  -   BuzzFeed
+580  -   BuzzFeedUSA.com
+581  -  Sheila Bynum-Coleman
+582  -  Andrew Byrd
+583  -  Casey Cagle
+584  -  Kevin Cahill
+585  -  Herman Cain
+586  -  Will Cain
+587  -  Matt Caldwell
+588  -  Election Integrity Project California
+589  -   Californians for Lower Drug Prices
+590  -   California Republican Party
+591  -  John Calipari
+592  -  Kevin Cameron
+593  -  Kat Cammack
+594  -  Lee Camp
+595  -   Campaign for America's Future
+596  -   Campaign for Liberty
+597  -   Campaign for Liberty - Georgia
+598  -   Campaign for Primary Accountability
+599  -   Campaign Money Watch
+600  -   Campaign to Defend America
+---- saved progress -----
+601  -  Donna Campbell
+602  -  Stacey Campfield
+603  -  Rachel Campos-Duffy
+604  -  Dean Cannon
+605  -  Steve Cannon
+606  -  Michael Cannon
+607  -  Ben Cannon
+608  -  David Canon
+609  -  Tim Canova
+610  -  Francisco "Quico" Canseco
+611  -  Eric Cantor
+612  -  Maria Cantwell
+613  -  Tony Capezza
+614  -  Shelley Moore Capito
+615  -  Lois Capps
+616  -  James Capretta
+617  -  Frank Caprio
+618  -  Michael Caputo
+619  -  Donald Carcieri
+620  -  Al Cardenas
+621  -  Ben Cardin
+622  -  Matthew Charles Cardinale
+623  -  Miguel Cardona
+624  -  Maria Cardona
+625  -  Protect Our Care
+626  -  Michael Cargill
+627  -  Barbara Cargill
+628  -  John Carlevale
+629  -  Margaret Carlson
+630  -  Pat Carlson
+631  -  Gretchen Carlson
+632  -  Tucker Carlson
+633  -  Mitch Carmichael
+634  -  Russ Carnahan
+635  -  Jay Carney
+636  -  Tim Carpenter
+637  -  Chris Carpenter
+638  -  Amanda Carpenter
+639  -  Chris Carr
+640  -  James Carr
+641  -  Jim Carrey
+642  -  Jose Carrillo
+643  -  Jennifer Carroll
+644  -  Morgan Carroll
+645  -  Jennifer Carroll Foy
+646  -  André Carson
+647  -  Ben Carson
+648  -  Meria Carstarphen
+649  -  Jason Carter
+650  -  Buddy Carter
+651  -  Stefani Carter
+652  -  Jimmy Carter
+653  -  John Carter
+654  -  Liz Carter
+655  -  Stephen Carter
+656  -  Alberto Carvalho
+657  -  James Carville
+658  -  Caroline Casagrande
+659  -  Greg Casar
+660  -  Greg Casar
+661  -  Jean Casarez
+662  -   Cascade Policy Institute
+663  -  Steve Case
+664  -  Bob Casey
+665  -  Kriner Cash
+666  -  Kelly Cassidy
+667  -  Bill Cassidy
+668  -  Alex Castellanos
+669  -  Sean Casten
+670  -  Cindi Castilla
+671  -  Kathy Castor
+672  -  Ron Castorina, Jr.
+673  -  Julián Castro
+674  -  Joaquin Castro
+675  -  Raúl Castro
+676  -   CatholicVote
+677  -   Cato Institute
+678  -  David Caton
+679  -   CATPAC
+680  -   Causa Oregon
+681  -  Chad Causey
+682  -  Neil Cavuto
+683  -  Madison Cawthorn
+684  -  James Cenerini
+685  -   Center for American Progress
+686  -   Center for American Progress Action Fund
+687  -   Center for Individual Freedom
+688  -   Center for Western Priorities
+689  -   Centers for Disease Control
+690  -   Central Falls Police Department
+691  -   Centre for Research on Globalization
+692  -  Mike Cernovich
+693  -  Michael Cerullo
+694  -  Steve Chabot
+695  -  Samir Chachoua
+696  -  Lincoln Chafee
+697  -  Jason Chaffetz
+698  -   Chain email
+699  -   Chain message
+700  -  Gordon Challstrom
+---- saved progress -----
+701  -  Jill Chambers
+702  -  Gary Chambers Jr.
+703  -  Saxby Chambliss
+704  -  Ronnie Chance
+705  -   ChangeAustin.org
+706  -   Channel24News.com
+707  -  Elaine Chao
+708  -   Chapel Hill
+709  -  Jeff Chapman
+710  -  John Charles
+711  -  Amanda Chase
+712  -  Jay Chaudhuri
+713  -  Dominic Chavez
+714  -  Linda Chavez-Thompson
+715  -  Brahma Chellaney
+716  -  Hagar Chemali
+717  -  Dick Cheney
+718  -  Liz Cheney
+719  -  John Chiang
+720  -  Gen. Peter Chiarelli
+721  -  Gery Chico
+722  -   Children at Risk
+723  -   Children's Healthcare of Atlanta
+724  -  Bud Chiles
+725  -  Michael Chippendale
+726  -  John Chisholm
+727  -  Kari Chisholm
+728  -  Warren Chisum
+729  -  Gary Chiusano
+730  -  Joseph Chiusolo
+731  -  Upendra Chivukula
+732  -  Chris Chocola
+733  -  Robert Chody
+734  -  Mun Choi
+735  -   Choose: New Jersey
+736  -  Wayne Christian
+737  -   Christian Broadcasting Network
+738  -   Christians for Michele Bachmann
+739  -  Chris Christie
+740  -  Ron Christie
+741  -  Steven Chu
+742  -  Judy Chu
+743  -  Vincent "Buddy" Cianci
+744  -  Charles J. Cicchetti
+745  -  David Cicilline
+746  -  Jackie Cilley
+747  -  Nick Ciparro
+748  -  Pat Cipollone
+749  -  Henry Cisneros
+750  -  Gil Cisneros
+751  -   Citizen Action of Wisconsin
+752  -   Citizens for a Progressive Wisconsin
+753  -   Citizens for a Strong America
+754  -   Citizens for Fairness
+755  -   Citizens for Lower Taxes and a Stronger Economy
+756  -   Citizens for Michael McAuliffe and House Republican Organization
+757  -   Citizens for the Republic
+758  -   Citizens for Transportation Mobility
+759  -   Citizens to Protect Transportation Funding
+760  -   Citizens United Political Victory Fund
+761  -   City of Atlanta
+762  -   City of Atlanta press release
+763  -   Civitas Institute
+764  -   Clackamas County Commission
+765  -   Clackamas County Democrats
+766  -  Ben Clark
+767  -  Wesley Clark
+768  -  Justin Clark
+769  -  Charles Clark
+770  -  Chris Clark
+771  -  Fred Clark
+772  -  Richard Clarke
+773  -  David A. Clarke Jr.
+774  -  Amy Clark Meachum
+775  -  J. Bart Classen
+776  -  Dave Claunch
+777  -  William Lacy Clay
+778  -  Mark Clayton
+779  -   Clayton County Government
+780  -   Clayton County Schools
+781  -   Clean Virginia
+782  -   Clean Water Portland
+783  -  Emanuel Cleaver
+784  -  Bill Clegg
+785  -  Brian Clem
+786  -  Jeff Clemens
+787  -  Ben Cline
+788  -  Bill Clinton
+789  -  Chelsea Clinton
+790  -  Hillary Clinton
+791  -  Katherine Cloonen
+792  -  George Clooney
+793  -   Club for Growth
+794  -  James Clyburn
+795  -  Andrew Clyde
+796  -  Kathleen Clyde
+797  -   CNN
+798  -   CNNews3.com
+799  -   CNSNews
+800  -   Coalition for Fair Budget Priorities
+---- saved progress -----
+801  -   Coalition for Public Schools
+802  -   Coalition for the Homeless
+803  -   Coalition to Bring Jobs to R.I.
+804  -   Coalition to Stop Gun Violence
+805  -   Coalition to Stop the Proposed Tax Hike Amendment
+806  -  Ta-Nehisi Coates
+807  -  Dan Coats
+808  -  Sue Bell Cobb
+809  -  Victoria Cobb
+810  -  Gary Cobb
+811  -  Tom Coburn
+812  -  Thad Cochran
+813  -  Richard Codey
+814  -  Mike Coffman
+815  -  Jeff Cogen
+816  -  Elizabeth Coggs
+817  -  Milele Coggs
+818  -  Elizabeth Cohen
+819  -  Steve Cohen
+820  -  Lesley Cohen
+821  -  Jeremy "Spike" Cohen
+822  -  Michael Cohen
+823  -  Mandy Cohen
+824  -  Brian Tyler Cohen
+825  -  Stephen Colbert
+826  -  Elizabeth Colbert Busch
+827  -  Susan Cole
+828  -  Tom Cole
+829  -  Sheryl Cole
+830  -  Bob Cole
+831  -  Linda Coleman
+832  -  Garnet Coleman
+833  -  Mary Elizabeth Coleman
+834  -  Tom Colicchio
+835  -   College presidents
+836  -  Mike Collier
+837  -  Loren Collins
+838  -  Mike Collins
+839  -  Doug Collins
+840  -  Chris Collins
+841  -  Susan Collins
+842  -  Abel Collins
+843  -  Gail Collins
+844  -  Jacqueline Collins
+845  -   Colorado Citizens for Accountable Government
+846  -   Colorado Democratic Party
+847  -   Colorado Health Institute
+848  -   Colorado's Voice
+849  -   Color of Change
+850  -  Courtney Combs
+851  -  Susan Combs
+852  -   Committee for Florida's Education
+853  -   Committee for Our Children's Future
+854  -   Committee of Austin's Children PAC
+855  -   Committee to Defend the President
+856  -   Committee to Protect Florida
+857  -   Common Cause
+858  -   Common Sense Kids Action
+859  -   Common Sense Now
+860  -   Commonsense Ten
+861  -   Community Oncology Alliance
+862  -  Emily Compagno
+863  -   Competitive Enterprise Institute
+864  -  Barbara Comstock
+865  -  Herb Conaway Jr.
+866  -   Concernedcitizen4U
+867  -   Concerned Taxpayers of America
+868  -   Concerned Veterans for America
+869  -   Concerned Women for America
+870  -  Amy Coney Barrett
+871  -  Jason Conger
+872  -   Congressional Leadership Fund
+873  -   Congressional Progressive Caucus PAC
+874  -  Colleen Conley
+875  -  Kathleen Connell
+876  -  Jack Conners
+877  -  Gerry Connolly
+878  -  Kent Conrad
+879  -  Jody Conradt
+880  -   Conservative Beaver
+881  -   Conservative-Daily
+882  -   Conservative Daily Post
+883  -   Conservative Renewal PAC
+884  -   Conservative Republicans of Texas PAC
+885  -   Conservatives for Patients' Rights
+886  -   Conservative Solutions PAC
+887  -   Conservative Stories
+888  -   Conservative Tribune
+889  -   Conservative Voters of Texas PAC
+890  -   Constitutional Rights PAC
+891  -   Consumers for Smart Solar
+892  -  Jack Conway
+893  -  Kellyanne Conway
+894  -  Butch Conway
+895  -  John Conyers, Jr.
+896  -  Tim Cook
+897  -  Matthew Cooke
+898  -  Edward Cooney
+899  -  Chris Coons
+900  -  Charles Cooper
+---- saved progress -----
+901  -  Jim Cooper
+902  -  Roy Cooper
+903  -  Sarah Copelin-Wood
+904  -  Tom Corbett
+905  -  Richard Corcoran
+906  -  James Corden
+907  -  Richard Cordray
+908  -  Marie Corfield
+909  -  Bob Corker
+910  -  Jake Corman
+911  -  David Corn
+912  -   Corn Commentary
+913  -  Rob Cornilles
+914  -  John Cornyn
+915  -  Jerome R. Corsi
+916  -  Steve Cortes
+917  -  Bob Cortes
+918  -  John Cortes
+919  -  Catherine Cortez Masto
+920  -  Jon Corzine
+921  -  Doreen Costa
+922  -  Gregory J. Costantino
+923  -  Steven Costantino
+924  -  David Cote
+925  -  Tom Cotton
+926  -  Kevin Coughlin
+927  -  Ann Coulter
+928  -   Council for the National Interest
+929  -   County Line
+930  -   CountyNewsroom.info
+931  -   Courageous Conservatives PAC
+932  -  Peter Courtney
+933  -  Ertharin Cousin
+934  -   Cover Oregon
+935  -  Sid Covington
+936  -  Robert Cowles
+937  -  Tim Cowlishaw
+938  -  Kirk Cox
+939  -  Edward Cox
+940  -  Chris Cox
+941  -  Clay Cox
+942  -  John Cox
+943  -  J. David Cox
+944  -  Christopher Coyne
+945  -   CQ Press City Crime Rankings, 2010-2011
+946  -  Christi Craddick
+947  -  Tom Craddick
+948  -  David Craig
+949  -  Andy Craig
+950  -  Kevin Cramer
+951  -  Jan Crawford
+952  -   Creative Advocacy Network
+953  -   Credo Action
+954  -  Brandon Creighton
+955  -  Dan Crenshaw
+956  -   Crime Victims United of Oregon
+957  -  Steve Crisafulli
+958  -  Charlie Crist
+959  -   Critics of water fluoridation
+960  -  Mark Critz
+961  -  Thomas Croci
+962  -  Ray Cross
+963  -   Crossroads GPS
+964  -  Michael M. Crow
+965  -  Derrick Crowe
+966  -  James Crowley
+967  -  Joseph Crowley
+968  -  Candy Crowley
+969  -  David Crowley
+970  -  Monica Crowley
+971  -  Myra Crownover
+972  -  Melanie Crozier
+973  -  Benjamin Crump
+974  -  Mike Crute
+975  -  Rafael Cruz
+976  -  Janet Cruz
+977  -  Ted Cruz
+978  -  Joseph Cryan
+979  -   CSC Mediagroup.USA
+980  -  Mark Cuban
+981  -  Ken Cuccinelli
+982  -  Henry Cuellar
+983  -  John Culberson
+984  -   Culinary Workers Union
+985  -  David Cullen
+986  -  Elijah Cummings
+987  -  Chris Cummiskey
+988  -  Joe Cunningham
+989  -  Sandra Cunningham
+990  -  Cal Cunningham
+991  -  Andrew Cuomo
+992  -  Chris Cuomo
+993  -  Lisa Cupid
+994  -  S.E. Cupp
+995  -  Carlos Curbelo
+996  -  Kiki Curls
+997  -  Leslie Curran
+998  -  John Currie
+999  -  Lenny Curry
+1000  -  Tim Curtis
+---- saved progress -----
+1001  -  Linda Curtis
+1002  -  Michael Cutler
+1003  -  Stephanie Cutter
+1004  -  Arthur Cyr
+1005  -  Clay Dafoe
+1006  -  NaHa Daily
+1007  -   Daily Caller
+1008  -   Daily Kos
+1009  -   DailyNewsForAmericans.com
+1010  -  Steve Daines
+1011  -  Bill Daley
+1012  -  Rebecca Dallet
+1013  -  Matt Damon
+1014  -   Dane County Republican Party
+1015  -  Warren Daniel
+1016  -  Mark Daniels
+1017  -  Mitch Daniels
+1018  -  Marjorie Dannenfelser
+1019  -  Chris Danou
+1020  -  Alberta Darling
+1021  -  Emma Darnell
+1022  -  Melanie D'Arrigo
+1023  -  Rush Darwish
+1024  -  Tom Daschle
+1025  -  Roberto DaSilva
+1026  -  Gerald Daugherty
+1027  -  The David Perdue Files
+1028  -  Pam Davidson
+1029  -  Warren Davidson
+1030  -  Ron Davis
+1031  -  Artur Davis
+1032  -  Wendy Davis
+1033  -  Linsey Davis
+1034  -  Hillary Davis
+1035  -  Rodney Davis
+1036  -  Paul Davis
+1037  -  Joe Davis, Sr.
+1038  -  Scott Dawson
+1039  -  Sharon Day
+1040  -  Mark Dayton
+1041  -   D’Banj
+1042  -   DCCC
+1043  -  Steve Deace
+1044  -  Colleen Deacon
+1045  -   Deadspin
+1046  -  Nathan Deal
+1047  -  Howard Dean
+1048  -  Wayne DeAngelo
+1049  -  Bill de Blasio
+1050  -  Rodman Debra
+1051  -  BettyLou DeCroce
+1052  -  Creigh Deeds
+1053  -   Deepwater Wind
+1054  -  Brian Deese
+1055  -  Peter DeFazio
+1056  -  Joe DeFelice
+1057  -   Defend Arizona
+1058  -   Defenders of Wildlife Action Fund
+1059  -   Defending Main Street
+1060  -  Children's Defense Fund-Texas
+1061  -   defense-usa
+1062  -   defense-usa.site
+1063  -  Woody Degan
+1064  -  Diana DeGette
+1065  -  Kai Degner
+1066  -  Aaron DeGroot
+1067  -  Deidre DeJear
+1068  -   DeKalb County
+1069  -  Efrain De La Fuente
+1070  -  John Delaney
+1071  -  Rosa DeLauro
+1072  -   Delaware Health and Social Services
+1073  -  Tom DeLay
+1074  -  Kevin de León
+1075  -  Antonio Delgado
+1076  -  Jack Del Rio
+1077  -   delta-flying.info
+1078  -  Samuel DeMaio
+1079  -  Val Demings
+1080  -  Jim DeMint
+1081  -   Democracy for America
+1082  -   Democratic candidates for Wisconsin governor
+1083  -   Democratic Congressional Campaign Committee
+1084  -   Democratic Congressional Campaign Committee Logo
+1085  -   Democratic congressional leadership
+1086  -   Democratic Governors Association
+1087  -   Democratic Hispanic Caucus, Miami-Dade Chapter
+1088  -   DemocraticMoms.com
+1089  -   Democratic National Committee
+1090  -  Nevada State Democratic Party
+1091  -  Maine Democratic Party
+1092  -  Arizona Democratic Party
+1093  -   Democratic Party of Georgia
+1094  -   Democratic Party of Oregon
+1095  -   Democratic Party of Virginia
+1096  -   Democratic Party of Wisconsin
+1097  -   Democratic Senatorial Campaign Committee
+1098  -   Democratic Underground
+1099  -  Winning Democrats
+1100  -   Democrats
+---- saved progress -----
+1101  -  Justice Democrats
+1102  -   Democrats Rising
+1103  -  Michael Denbrow
+1104  -  Jeff Denham
+1105  -  Diane Denish
+1106  -  Elizabeth Dennigan
+1107  -  John Dennis
+1108  -  Nancy Denuccio
+1109  -  Nancy-Ann DeParle
+1110  -  Eugene DePasquale
+1111  -  John DePetro
+1112  -  Lynne Derbyshire
+1113  -  Ron Dermer
+1114  -  Mike Derrick
+1115  -  Alan Dershowitz
+1116  -  Ron DeSantis
+1117  -  Joseph "Joe" Deshotel
+1118  -  Stephanie DeSilva
+1119  -  Scott DesJarlais
+1120  -  Ken Detzner
+1121  -  Robert Deuell
+1122  -  Ted Deutch
+1123  -  Donny Deutsch
+1124  -  Chris Devaney
+1125  -  William Devereaux
+1126  -  Richard Devlin
+1127  -  Suzanne Devlin
+1128  -  Betsy DeVos
+1129  -  David Dewhurst
+1130  -  Mike DeWine
+1131  -  Kevin DeWine
+1132  -  Jeff DeWit
+1133  -   Diamond and Silk
+1134  -  Jose Diaz-Balart
+1135  -  Mario Diaz-Balart
+1136  -  Miguel Diaz de la Portilla
+1137  -  Jeff Dickerson
+1138  -  Sheri Dillon
+1139  -  Marina Dimitrijevic
+1140  -  Robert DiMuccio
+1141  -  Jackie Dingfelder
+1142  -  David DiPietro
+1143  -   Direct Action for Rights & Equality
+1144  -   Distilled Spirits Council of the United States
+1145  -  Barbara Dittrich
+1146  -  USF Divest
+1147  -  Lou Dobbs
+1148  -  James Dobson
+1149  -  Paula Dockery
+1150  -   Doctors for a Healthy Georgia
+1151  -  Chris Dodd
+1152  -  Steve Doell
+1153  -  Snoop Dogg
+1154  -  Lloyd Doggett
+1155  -  Brendan Doherty
+1156  -  Michael Doherty
+1157  -  Timothy Dolan
+1158  -  Matt Dolan
+1159  -  Bob Dold
+1160  -  Robert Dold
+1161  -  Creflo Dollar
+1162  -  Joe Donald
+1163  -  Joe Donnelly
+1164  -  Bob Donovan
+1165  -  Chuck Donovan
+1166  -  TJ Donovan
+1167  -  Shaun Donovan
+1168  -   Don't Let Florida Go To Pot
+1169  -  Steve Doocy
+1170  -  David Dooley
+1171  -  Debbie Dooley
+1172  -   Doonesbury
+1173  -  Chris Dorworth
+1174  -  Michael Dougherty
+1175  -  Paul Doughty
+1176  -  Diane Douglas
+1177  -  Ross Douthat
+1178  -  Mike Dovilla
+1179  -  Matthew Dowd
+1180  -  Maureen Dowd
+1181  -  Kevin Downing
+1182  -  Ryan Downton
+1183  -  Ed Doyle
+1184  -  Patti Doyle
+1185  -  Jim Doyle
+1186  -  Kelley Dragoo
+1187  -  Christine Drazan
+1188  -   Dream Defenders
+1189  -  Mark Drewniak
+1190  -  John Driscoll
+1191  -  Protect Oregon Driver Licenses
+1192  -   Drudge Report
+1193  -   Drug Free America
+1194  -   Drug Policy Alliance
+1195  -   Drunk History
+1196  -  Dinesh D'Souza
+1197  -  Doug Ducey
+1198  -  Tammy Duckworth
+1199  -  Mike Dudgeon
+1200  -  Chris Dudley
+---- saved progress -----
+1201  -   Duffel Blog
+1202  -  Sean Duffy
+1203  -  Robert Duffy
+1204  -  Mike Duggan
+1205  -  Dawnna Dukes
+1206  -  Arne Duncan
+1207  -  John Duncan
+1208  -  Jeff Duncan
+1209  -  Siobhan Dunnavant
+1210  -  Richard Durbin
+1211  -  James Durkan
+1212  -  Jim Durkin
+1213  -  Jim Durrett
+1214  -  Jana Duty
+1215  -   Duty and Honor
+1216  -  Barry DuVal
+1217  -  Andy Duyck
+1218  -  Michael Eric Dyson
+1219  -  Dane Eagle
+1220  -  Ainsley Earhardt
+1221  -  Ronnie Earle
+1222  -  Winsome Earle-Sears
+1223  -  Josh Earnest
+1224  -  Dale Earnhardt Jr.
+1225  -  Brian D. Earp
+1226  -  Michael Easley Jr.
+1227  -  Delaine Eastin
+1228  -  Donald Eastman
+1229  -  Clint Eastwood
+1230  -  John Eaves
+1231  -  Tim Echols
+1232  -  Sarah Eckhardt
+1233  -   Eco News
+1234  -   ECONorthwest
+1235  -  James Edming
+1236  -  Michael Edmondson
+1237  -   Education Action Group
+1238  -  John Bel Edwards
+1239  -  Katie Edwards
+1240  -  Donna Edwards
+1241  -  John Edwards
+1242  -  Bill Edwards
+1243  -  John G. Edwards
+1244  -  Chet Edwards
+1245  -  Russell Edwards
+1246  -  Laurence Ehrhardt
+1247  -  Jessica Ehrlich
+1248  -  John Eichelberger
+1249  -  Eric Eikenberg
+1250  -  Norm Eisen
+1251  -  Eric Eisnaugle
+1252  -  Rob Eissler
+1253  -  Larry Elder
+1254  -  Bruce Elfant
+1255  -  Einer Elhauge
+1256  -  Politics Elite Trump
+1257  -  John Elkhay
+1258  -   Elle
+1259  -  Ryan Eller
+1260  -  Burrell Ellis
+1261  -  Michael Ellis
+1262  -  Rodney Ellis
+1263  -  Keith Ellison
+1264  -  Renee Ellmers
+1265  -  Brad Ellsworth
+1266  -  Monk Elmer
+1267  -  Jorge Elorza
+1268  -  Tariq El-Shabazz
+1269  -   Emails
+1270  -  Rahm Emanuel
+1271  -  Ezekiel Emanuel
+1272  -   Emergency Committee for Israel
+1273  -  Steven Emerson
+1274  -  Ed Emery
+1275  -   EMILY's List
+1276  -  Mark Emmert
+1277  -   Emory University
+1278  -   EmpireSports.co
+1279  -   EmpowerED Georgia
+1280  -   Empower Texans
+1281  -   End Citizens United
+1282  -   Ending Spending Action Fund
+1283  -   EnergyCitizens.org
+1284  -   Energy Transfer
+1285  -  Juda Engelmayer
+1286  -  David Englin
+1287  -  Charley English
+1288  -   Enough Already Wisconsin, Inc.
+1289  -   Enterprise Florida
+1290  -   Environmental Defense Fund Action
+1291  -   Environmental Justice League of R.I
+1292  -   Environmental Protection Agency
+1293  -   Environment New Jersey
+1294  -  Mike Enzi
+1295  -   Equity Forward
+1296  -  Erick Erickson
+1297  -  Joni Ernst
+1298  -  Jon Erpenbach
+1299  -  Veronica Escobar
+1300  -  Adriano Espaillat
+---- saved progress -----
+1301  -  Paul Espinosa
+1302  -   ESPN
+1303  -   Esquire magazine
+1304  -  Sal Esquivel
+1305  -  Eric Esshaki
+1306  -  Alan Essig
+1307  -  Jean Evans
+1308  -  Stacey Evans
+1309  -  L.C. "Buster" Evans
+1310  -   Evening World
+1311  -  Tony Evers
+1312  -   Everyday Devotional
+1313  -   Everytown for Gun Safety
+1314  -  U.S. Dairy Export Council
+1315  -  Keith Faber
+1316  -  Tony Fabrizio
+1317  -   Facebook posts
+1318  -   Fact Check Florida
+1319  -  Shemia Fagan
+1320  -  Frank Fahrenkopf
+1321  -  Patricia Fahy
+1322  -   Fair Districts Florida
+1323  -  Jack Falanagan
+1324  -  Kathleen Falk
+1325  -  Roger Falk
+1326  -  Brian Fallon
+1327  -  Ed Fallone
+1328  -  Jerry Falwell Jr.
+1329  -   Family Forward Oregon
+1330  -  Shenggen Fan
+1331  -  Dan Fanelli
+1332  -  Tom Fanning
+1333  -  Blake Farenthold
+1334  -  Chele Farley
+1335  -  Patricia Farley
+1336  -  Gary Farmer
+1337  -  State Farm Insurance
+1338  -  Southwest Farm Press
+1339  -  Duriya Farooqui
+1340  -  Paul Farrow
+1341  -  Ronan Farrow
+1342  -  Mike Fasano
+1343  -  John Faso
+1344  -  Anthony Fauci
+1345  -  Marshall Faulk
+1346  -  John Faulk
+1347  -  Harris Faulkner
+1348  -   Federal Transit Administration
+1349  -   Federation for American Immigration Reform
+1350  -  Teresa Fedor
+1351  -  Larry Fedora
+1352  -  Randy Feenstra
+1353  -  Eric Fehrnstrom
+1354  -  Peter Feigin
+1355  -  Evan Feinberg
+1356  -  Russ Feingold
+1357  -  Dianne Feinstein
+1358  -  Jose Felix Diaz
+1359  -   Fellowship of the Minds
+1360  -  Mary Felzkowski
+1361  -   Feministing
+1362  -  Lorraine Fende
+1363  -  Ben Ferguson
+1364  -  Drew Ferguson
+1365  -  Rose Ferlita
+1366  -  Joseph Fernandez
+1367  -  Maurice Ferre
+1368  -  Ted Ferrioli
+1369  -  Richard Ferruccio
+1370  -  Kendra Fershee
+1371  -  John Fetterman
+1372  -  Joshua Feuerstein
+1373  -   Fidelis
+1374  -   Fight for the Future
+1375  -   Fighting for Ohio PAC
+1376  -  Eileen Filler-Corn
+1377  -  Mallard Fillmore
+1378  -  Mark Finchem
+1379  -  Tim Finchem
+1380  -  Stephen Fincher
+1381  -  Howard Fineman
+1382  -  Abby Finkenauer
+1383  -  Linda Finn
+1384  -  E.J. Finocchio
+1385  -  Heather Fiorentino
+1386  -  Carly Fiorina
+1387  -  America First
+1388  -  Good Jobs First
+1389  -  Bryan Fischer
+1390  -  Huey Rey Fischer
+1391  -  Bill Fischer
+1392  -  Jenna Fischer
+1393  -  Nick Fish
+1394  -  Lee Fisher
+1395  -  Scott Fitzgerald
+1396  -  Jeff Fitzgerald
+1397  -  Ed FitzGerald
+1398  -  Brian Fitzpatrick
+1399  -  Hugh Fitzsimons
+1400  -   Fix Austin Schools
+---- saved progress -----
+1401  -  Jeff Flake
+1402  -  John Flanagan
+1403  -  Robert Flanders
+1404  -  Jimmy Flannigan
+1405  -   Flash 24 Daily
+1406  -  Ari Fleischer
+1407  -  Chuck Fleischmann
+1408  -  John Fleming
+1409  -  Charlie Flemming
+1410  -  Lizzie Pannill Fletcher
+1411  -  George Flinn
+1412  -  Lucy Flores
+1413  -  Anitere Flores
+1414  -  Bill Flores
+1415  -  Seamless Florida
+1416  -   Florida Agency for Health Care Administration
+1417  -   Florida Badass Teachers Association
+1418  -   Florida Chamber of Commerce
+1419  -   Florida Conference of Catholic Bishops
+1420  -   Florida Conservation Alliance
+1421  -   Florida Consumer Action Network
+1422  -   Florida Democratic Legislative Campaign Committee
+1423  -   Florida Democratic Party
+1424  -   Florida Department of Corrections worker
+1425  -   Florida Education Association
+1426  -   Florida First Initiative
+1427  -   Florida First Project
+1428  -   Florida for All
+1429  -   Florida Grown
+1430  -   Florida Hometown Democracy
+1431  -   Florida House Majority Office
+1432  -   Florida Immigrant Coalition
+1433  -   Florida News Flash
+1434  -   Florida Police Benevolent Association
+1435  -   Florida Stop Common Core Coalition
+1436  -   Florida Strong
+1437  -   Florida Students for Concealed Carry
+1438  -   Florida Supreme Court
+1439  -   Florida voter
+1440  -   Florida Wildlife Federation
+1441  -   Floridians for Ethics and Truth in Politics
+1442  -   Floridians for Solar Choice
+1443  -  James Florio
+1444  -  Michael Flynn
+1445  -  Dan Flynn
+1446  -  Matt Flynn
+1447  -  Kevin Flynn
+1448  -  Edward Flynn
+1449  -   Focus on the Family
+1450  -   Focus on the Family Action
+1451  -  Mike Foley
+1452  -  Elizabeth Foley
+1453  -  Curtis Foltz
+1454  -   Foodmentum
+1455  -  World Food Program
+1456  -   Food & Water Watch
+1457  -   ForAmerica
+1458  -  Steve Forbes
+1459  -  Randy Forbes
+1460  -   Forbes blog
+1461  -  Mike Ford
+1462  -  Kathleen Ford
+1463  -  Harold Ford Jr.
+1464  -   Forecast the Facts
+1465  -  Dan Forest
+1466  -  Rana Foroohar
+1467  -   For Our Daughters RI
+1468  -   For Our Future Florida
+1469  -   For Our Future PAC
+1470  -  Erin Forrest
+1471  -  Vincent Fort
+1472  -  Mike Fortner
+1473  -  Travis Forward
+1474  -  Bill Foster
+1475  -  Arian Foster
+1476  -  Public Interest Legal Foundation
+1477  -   Foundation for a Secure and Prosperous America
+1478  -   Foundation for Florida's Future
+1479  -  Ron Fournier
+1480  -  Ryan Fournier
+1481  -  Josh Fox
+1482  -   Fox News Channel
+1483  -  Virginia Foxx
+1484  -  Allen Frances
+1485  -  Jim Francesconi
+1486  -  Don Francis
+1487  -  Charles Francis
+1488  -  Douglas Frank
+1489  -  Raymond Frank
+1490  -  Barney Frank
+1491  -  Lois Frankel
+1492  -  Mike Franken
+1493  -  Al Franken
+1494  -  Shirley Franklin
+1495  -  Richard Franklin III
+1496  -  Trent Franks
+1497  -  Troy Fraser
+1498  -  Ryan Frazier
+1499  -  John Fredericks
+1500  -  Janet Freedman
+---- saved progress -----
+1501  -   Freedom and Responsibility PAC
+1502  -   FreedomCrossroads.us
+1503  -   Freedom Daily
+1504  -   Freedom Defense Advocates
+1505  -   Freedom From Religion Foundation
+1506  -  USA Freedom Fund
+1507  -   FreedomJunkshun.com
+1508  -   Freedom PAC
+1509  -   Freedom Partners
+1510  -   Freedom Partners Action Fund
+1511  -   FreedomWorks
+1512  -   Free Market Florida
+1513  -   Free Thought Project
+1514  -  Ellen Freidin
+1515  -  Tina Freitas
+1516  -  Nick Freitas
+1517  -  Rodney Frelinghuysen
+1518  -  David French
+1519  -   Freshmedianews.com
+1520  -   Fresh Start PA
+1521  -  Steven Frias
+1522  -  Nikki Fried
+1523  -  Kinky Friedman
+1524  -   Friends of Clearwater PAC
+1525  -   Friends of Democracy
+1526  -   Friends of Greenlight
+1527  -   Friends of India Point Park
+1528  -   Friends of Miami First
+1529  -   Friends of Plum Beach Lighthouse
+1530  -   Friends of Voter Owned Elections
+1531  -  Amanda Fritz
+1532  -  Martin Frost
+1533  -  David Frum
+1534  -  Marcia Fudge
+1535  -  Reiner Fuellmich
+1536  -  Grover Fugate
+1537  -  Russ Fulcher
+1538  -  Quentin Fulks
+1539  -   Fulton County Government
+1540  -   Fulton County Health and Wellness
+1541  -  Allan Fung
+1542  -   Funny Or Die
+1543  -  David Furhman
+1544  -   Future45
+1545  -   Future PAC (Oregon House Democrats)
+1546  -  Tulsi Gabbard
+1547  -  Michael Gableman
+1548  -  Daniel Gade
+1549  -  Don Gaetz
+1550  -  Matt Gaetz
+1551  -  Eva Galambos
+1552  -  Sandy Galef
+1553  -  Mike Gallagher
+1554  -  James Gallagher
+1555  -  Ruben Gallego
+1556  -  Pete Gallego
+1557  -  Mario Gallegos
+1558  -  Raymond Gallison
+1559  -  Patrick Gallivan
+1560  -  Sheri Gallo
+1561  -  Nicole Galloway
+1562  -  Scott Galloway
+1563  -  Bill Galvano
+1564  -  Tom Ganley
+1565  -  Kathie Gannon
+1566  -  John Garamendi
+1567  -  Adrian Garcia
+1568  -  Luis Garcia
+1569  -  Sylvia Garcia
+1570  -  Joe Garcia
+1571  -  Rene Garcia
+1572  -  Marilinda Garcia
+1573  -  Mike Garcia
+1574  -  Michael J. Gardiner
+1575  -  Andy Gardiner
+1576  -  Cory Gardner
+1577  -  Merrick Garland
+1578  -  Barry Garner
+1579  -  Joan Garner
+1580  -  Donna Garner
+1581  -  Herb Garrett
+1582  -  Major Garrett
+1583  -  Scott Garrett
+1584  -  Thomas Garrett Jr.
+1585  -  Ed Garvey
+1586  -  Mauro Garza
+1587  -  Delia Garza
+1588  -  Barbara Gaskins
+1589  -  Patrick Gaspard
+1590  -  Robert Gates
+1591  -  Bill Gates
+1592  -  The Gateway Pundit
+1593  -  Ted Gatsas
+1594  -  Larry Gause
+1595  -  Jennette Gayer
+1596  -  Greenville Gazette
+1597  -  Dan Gecker
+1598  -  E. Gordon Gee
+1599  -  Mark Geist
+1600  -  Timothy Geithner
+---- saved progress -----
+1601  -  Dan Gelber
+1602  -  Pamela Geller
+1603  -  Anthony Gemma
+1604  -   Generation Forward PAC
+1605  -   Generation Opportunity
+1606  -  Gary George
+1607  -   Georgia Association of Homes and Services for Children
+1608  -   Georgia Association of Latino Elected Officials
+1609  -   GeorgiaCarry.org
+1610  -   Georgia Democrats
+1611  -   Georgia Department of Economic Development
+1612  -   Georgia Department of Public Health
+1613  -   Georgia Department of Transportation
+1614  -   Georgia Family Council
+1615  -   Georgia Farm Bureau
+1616  -   Georgia Green Party
+1617  -   Georgia Gun Owners
+1618  -   Georgia House Democratic Caucus on behalf of Elena Parent
+1619  -   Georgia Lottery
+1620  -   Georgians for Bernie Sanders for President
+1621  -   Georgia politicians
+1622  -   Georgia Restaurant Association
+1623  -   Georgia State Road and Tollway Authority
+1624  -   Georgia state senators
+1625  -   Georgia Voice
+1626  -  Ron Gerberry
+1627  -  Charlie Geren
+1628  -   Get EQUAL Texas
+1629  -   Get Georgia Right
+1630  -  Marie Ghazal
+1631  -  Teresa Ghilarducci
+1632  -  Joel Giambra
+1633  -  Alexi Giannoulias
+1634  -  Mike Gibbons
+1635  -  Joe Gibbons
+1636  -  John Gibbs
+1637  -  Robert Gibbs
+1638  -  Bob Gibbs
+1639  -  Sara Gideon
+1640  -  Hogan Gidley
+1641  -   Giffords
+1642  -  Gabrielle Giffords
+1643  -  Paul Gigot
+1644  -  Christine Gilbert
+1645  -  Todd Gilbert
+1646  -  Hank Gilbert
+1647  -  Garlin Gilchrist
+1648  -  Nia Gill
+1649  -  David Gill
+1650  -  Ed Gillespie
+1651  -  Nick Gillespie
+1652  -  Kirsten Gillibrand
+1653  -  Andrew Gillum
+1654  -  Jim Gilmore
+1655  -  Carlos Gimenez
+1656  -  Phil Gingrey
+1657  -  Newt Gingrich
+1658  -  Callista Gingrich
+1659  -  Gingrich 2 Gingrich
+1660  -  Ruth Bader Ginsburg
+1661  -  Russ Girling
+1662  -  Brett Giroir
+1663  -  Deborah Gist
+1664  -  Andrew Giuliani
+1665  -  Rudy Giuliani
+1666  -  Kathie Glass
+1667  -  Rob Gleason
+1668  -   Glee
+1669  -  Darryl Glenn
+1670  -  Catherine Glenn Foster
+1671  -  Deborah Glick
+1672  -  Helen Glover
+1673  -  Sarah Godlewski
+1674  -  Louie Gohmert
+1675  -  Simone Gold
+1676  -  Whoopi Goldberg
+1677  -  Jonah Goldberg
+1678  -  Martin Golden
+1679  -  Steven Goldstein
+1680  -  Rich Golick
+1681  -  Margaret Gomez
+1682  -  Javier M. Gonzales
+1683  -  Larry Gonzales
+1684  -  Jason Gonzales
+1685  -  Charlie Gonzalez
+1686  -  Jerry Gonzalez
+1687  -  Mary González
+1688  -  Bob Good
+1689  -  Roger Goodell
+1690  -  Bob Goodlatte
+1691  -  Anne Goodman
+1692  -  Wayne Goodwin
+1693  -  Doris Kearns Goodwin
+1694  -  Austan Goolsbee
+1695  -  Wisconsin Assembly GOP
+1696  -  Vin Gopal
+1697  -   GOP Daily Brief
+1698  -  Nancy Gordeuk
+1699  -  Robert Gordon
+1700  -  Al Gore
+---- saved progress -----
+1701  -  Helen Goreham
+1702  -  Steve Goreham
+1703  -  Nicholas Gorham
+1704  -  Sebastian Gorka
+1705  -  Terry Gorman
+1706  -  Paul Gosar
+1707  -  Terry Gou
+1708  -  Celine Gounder
+1709  -   Government is Not God PAC
+1710  -  Trey Gowdy
+1711  -  Jay Goyal
+1712  -  Evan Goyke
+1713  -  Nancy Grace
+1714  -  Daniel Grace
+1715  -  Tom Grady
+1716  -  Jack Graham
+1717  -  Bob Graham
+1718  -  Lindsey Graham
+1719  -  Gwen Graham
+1720  -  Kevin Graham
+1721  -  Jeff Graham
+1722  -  Franklin Graham
+1723  -  LZ Granderson
+1724  -  Jennifer Granholm
+1725  -  Chris Grant
+1726  -  Betty Jean Grant
+1727  -  Rose Mary Grant
+1728  -  Chuck Grassley
+1729  -  Mike Gravel
+1730  -  Tom Graves
+1731  -  Sam Graves
+1732  -  H. Ford Gravitt
+1733  -  Molly Gray
+1734  -  Eric Gray
+1735  -  Kim Gray
+1736  -  Alan Grayson
+1737  -   Great America Alliance
+1738  -   Great America PAC
+1739  -   Greater Wisconsin Committee
+1740  -   Great Lakes News
+1741  -  Dick Greco
+1742  -  Gene Green
+1743  -  Rick Green
+1744  -  Ja'Mal Green
+1745  -  Stanley Greenberg
+1746  -  Marjorie Taylor Greene
+1747  -  Jeff Greene
+1748  -  Jeff Greenfield
+1749  -  Theresa Greenfield
+1750  -  Daniel Greenfield
+1751  -  Lou Greenwald
+1752  -  Glenn Greenwald
+1753  -  Jim Greer
+1754  -  Judd Gregg
+1755  -  Chris Gregoire
+1756  -  Wilton Gregory
+1757  -  David Gregory
+1758  -  Eric Greitens
+1759  -  Tim Grendell
+1760  -  Dolores Gresham
+1761  -  Tim Griffin
+1762  -  Dave Griffith
+1763  -  Morgan Griffith
+1764  -  Joel Griffith
+1765  -  Denise Grimsley
+1766  -  Shelley Grogan
+1767  -  Police Chief Billy Grogan
+1768  -  Andy Gronik
+1769  -  Cheryl Grossman
+1770  -  Glenn Grothman
+1771  -  Heidi Group
+1772  -  Liberal Groups
+1773  -  Shannon Grove
+1774  -  Joe Gruters
+1775  -  Jeffrey Grybowski
+1776  -  Kim Guadagno
+1777  -  Coast Guard
+1778  -  Georgia Craft Brewers Guild
+1779  -  Kimberly Guilfoyle
+1780  -  Carlos Guillermo Smith
+1781  -  Frank Guinta
+1782  -  Bryant Gumbel
+1783  -  Rick Gundrum
+1784  -  Gun Free UT Gun Free UT
+1785  -   Gun Owners of America
+1786  -  David Gura
+1787  -  Reed Gusciora
+1788  -  Greg Gutfeld
+1789  -  Roland Gutierrez
+1790  -  Alfredo Gutierrez
+1791  -  Luis Gutierrez
+1792  -   H204TEXAS PAC
+1793  -  Jason Haas
+1794  -  Lori Haas
+1795  -   Habitat for Humanity of Broward
+1796  -  Bob Hackworth
+1797  -  Kay Hagan
+1798  -  Robert Hagan
+1799  -  Ken Hagan
+1800  -  Chuck Hagel
+---- saved progress -----
+1801  -  Janice Hahn
+1802  -  Brad Halbrook
+1803  -  Charlie Hales
+1804  -  Nikki Haley
+1805  -   HalfwayPost.com
+1806  -  Bob Hall
+1807  -  Ben Hall
+1808  -  Beverly Hall
+1809  -  Duane Hall
+1810  -  Tammy Hall
+1811  -  Ralph Hall
+1812  -  Wallace Hall
+1813  -  David Hallock
+1814  -  Christine Hallquist
+1815  -   Hal Turner Radio Show
+1816  -  Debbie Halvorson
+1817  -  Gail Hambrick
+1818  -  John Hambrick
+1819  -  Lisa Hamler-Fugitt
+1820  -  Marion Hammer
+1821  -  Bill Hammond
+1822  -  Amy Hanauer
+1823  -  Catherine Hanaway
+1824  -  Karen Handel
+1825  -  Chelsea Handler
+1826  -  Amy Handlin
+1827  -  Chris Hani Baragwanath Hospital
+1828  -  David Hankerson
+1829  -  Bruce Hanna
+1830  -  Jack Hanna
+1831  -  Sean Hannity
+1832  -  Dave Hansen
+1833  -  Susan Happ
+1834  -  Rick Hardcastle
+1835  -  Eric Hargan
+1836  -  Mike Haridopolos
+1837  -  Tom Harkin
+1838  -  Jane Harman
+1839  -  Erika Harold
+1840  -  Baker Harrell
+1841  -  Karen Harrington
+1842  -  Mark Harris
+1843  -  Jonathan Harris
+1844  -  Mark Harris
+1845  -  Kamala Harris
+1846  -  Pricey Harrison
+1847  -  Christy Harrison
+1848  -  Daniel Harrop
+1849  -  Sheila Harsdorf
+1850  -  Thom Hartmann
+1851  -  Vicky Hartzler
+1852  -  Beth Harwell
+1853  -  Mike Hashimoto
+1854  -  Ghazala Hashmi
+1855  -  Bill Haslam
+1856  -  Adam Hasner
+1857  -  Mark Hass
+1858  -  Maggie Hassan
+1859  -  Elisabeth Hasselbeck
+1860  -  Scott Hassett
+1861  -  Dennis Hastert
+1862  -  Alcee Hastings
+1863  -  Kelly E. Hastings
+1864  -  Orrin Hatch
+1865  -  Anne Hathaway
+1866  -  Greg Hauenstein
+1867  -  Liz Hausmann
+1868  -  Jesse Haw
+1869  -  Josh Hawley
+1870  -  Michael Hayden
+1871  -  Ron Hayduk
+1872  -  Stephen Hayes
+1873  -  Robin Hayes
+1874  -  Chris Hayes
+1875  -  Alan Hays
+1876  -  J.D. Hayworth
+1877  -  The Global Headlines
+1878  -  Robert Healey
+1879  -   Health Care for America Now
+1880  -   Health First Wisconsin
+1881  -   Healthy Kids, Healthy Portland
+1882  -  John Heard
+1883  -  Carl Heastie
+1884  -  Corey Hebert
+1885  -  Joe Heck
+1886  -  Ivory Hecker
+1887  -  Talmadge Heflin
+1888  -  M.J. Hegar
+1889  -  Glenn Hegar
+1890  -  Dan Hegeman
+1891  -  Pete Hegseth
+1892  -  Heidi Heilman
+1893  -   Heineken
+1894  -  Martin Heinrich
+1895  -  Heidi Heitkamp
+1896  -  Bill Heller
+1897  -  Dean Heller
+1898  -  Mac Heller
+1899  -  Pam Helming
+1900  -  Joseph Henchman
+Traceback (most recent call last):
+  File "C:\RA\Project 1\webscrapper1.py", line 89, in <module>
+    main()
+  File "C:\RA\Project 1\webscrapper1.py", line 69, in main
+    df.to_csv('output.csv',index=False)
+  File "C:\Users\kpand\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\kpand\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 3721, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "C:\Users\kpand\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\util\_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\kpand\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\io\formats\format.py", line 1189, in to_csv
+    csv_formatter.save()
+  File "C:\Users\kpand\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\io\formats\csvs.py", line 241, in save
+    with get_handle(
+  File "C:\Users\kpand\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\io\common.py", line 857, in get_handle
+    handle = open(
+PermissionError: [Errno 13] Permission denied: 'output.csv'
+
+C:\RA\Project 1>python webscrapper1.py
+1801  -  Janice Hahn
+1802  -  Brad Halbrook
+1803  -  Charlie Hales
+1804  -  Nikki Haley
+1805  -   HalfwayPost.com
+1806  -  Bob Hall
+1807  -  Ben Hall
+1808  -  Beverly Hall
+1809  -  Duane Hall
+1810  -  Tammy Hall
+1811  -  Ralph Hall
+1812  -  Wallace Hall
+1813  -  David Hallock
+1814  -  Christine Hallquist
+1815  -   Hal Turner Radio Show
+1816  -  Debbie Halvorson
+1817  -  Gail Hambrick
+1818  -  John Hambrick
+1819  -  Lisa Hamler-Fugitt
+1820  -  Marion Hammer
+1821  -  Bill Hammond
+1822  -  Amy Hanauer
+1823  -  Catherine Hanaway
+1824  -  Karen Handel
+1825  -  Chelsea Handler
+1826  -  Amy Handlin
+1827  -  Chris Hani Baragwanath Hospital
+1828  -  David Hankerson
+1829  -  Bruce Hanna
+1830  -  Jack Hanna
+1831  -  Sean Hannity
+1832  -  Dave Hansen
+1833  -  Susan Happ
+1834  -  Rick Hardcastle
+1835  -  Eric Hargan
+1836  -  Mike Haridopolos
+1837  -  Tom Harkin
+1838  -  Jane Harman
+1839  -  Erika Harold
+1840  -  Baker Harrell
+1841  -  Karen Harrington
+1842  -  Mark Harris
+1843  -  Jonathan Harris
+1844  -  Mark Harris
+1845  -  Kamala Harris
+1846  -  Pricey Harrison
+1847  -  Christy Harrison
+1848  -  Daniel Harrop
+1849  -  Sheila Harsdorf
+1850  -  Thom Hartmann
+1851  -  Vicky Hartzler
+1852  -  Beth Harwell
+1853  -  Mike Hashimoto
+1854  -  Ghazala Hashmi
+1855  -  Bill Haslam
+1856  -  Adam Hasner
+1857  -  Mark Hass
+1858  -  Maggie Hassan
+1859  -  Elisabeth Hasselbeck
+1860  -  Scott Hassett
+1861  -  Dennis Hastert
+1862  -  Alcee Hastings
+1863  -  Kelly E. Hastings
+1864  -  Orrin Hatch
+1865  -  Anne Hathaway
+1866  -  Greg Hauenstein
+1867  -  Liz Hausmann
+1868  -  Jesse Haw
+1869  -  Josh Hawley
+1870  -  Michael Hayden
+1871  -  Ron Hayduk
+1872  -  Stephen Hayes
+1873  -  Robin Hayes
+1874  -  Chris Hayes
+1875  -  Alan Hays
+1876  -  J.D. Hayworth
+1877  -  The Global Headlines
+1878  -  Robert Healey
+1879  -   Health Care for America Now
+1880  -   Health First Wisconsin
+1881  -   Healthy Kids, Healthy Portland
+1882  -  John Heard
+1883  -  Carl Heastie
+1884  -  Corey Hebert
+1885  -  Joe Heck
+1886  -  Ivory Hecker
+1887  -  Talmadge Heflin
+1888  -  M.J. Hegar
+1889  -  Glenn Hegar
+1890  -  Dan Hegeman
+1891  -  Pete Hegseth
+1892  -  Heidi Heilman
+1893  -   Heineken
+1894  -  Martin Heinrich
+1895  -  Heidi Heitkamp
+1896  -  Bill Heller
+1897  -  Dean Heller
+1898  -  Mac Heller
+1899  -  Pam Helming
+1900  -  Joseph Henchman
+---- saved progress -----
+1901  -  Nia-Malika Henderson
+1902  -  Joshua Henne
+1903  -  Robert Henneke
+1904  -  Jeb Hensarling
+1905  -  Steve Henson
+1906  -  Scott Henson
+1907  -   Heritage Action
+1908  -   Heritage Foundation
+1909  -  Jeffrey Hernandez
+1910  -  Sally Hernandez
+1911  -  Juan Hernández
+1912  -  Will Herring
+1913  -  Mark Herring
+1914  -  Hugh Hewitt
+1915  -  Justin Hewlett
+1916  -  Jody Hice
+1917  -  John Hickenlooper
+1918  -  Darryl Hicks
+1919  -  Rusty Hicks
+1920  -  Joshua Higginbotham
+1921  -  Brian Higgins
+1922  -  Jim Hightower
+1923  -  Bill Hightower
+1924  -  Marc Lamont Hill
+1925  -  Fiona Hill
+1926  -  Matthew Hill
+1927  -  Judson Hill
+1928  -   Hillsborough Area Regional Transit
+1929  -   Hillsborough County Republican Executive Committee
+1930  -  Jim Himes
+1931  -  Barry Hinckley
+1932  -  Brook Hines
+1933  -  Mark Hinkle
+1934  -  Ruben Hinojosa
+1935  -  Gilberto Hinojosa
+1936  -  Juan "Chuy" Hinojosa
+1937  -  Gina Hinojosa
+1938  -  Ashley Hinson
+1939  -  Gordon Hintz
+1940  -  Paul Hipp
+1941  -  Paul Hirschbiel
+1942  -  Lauren Hitt
+1943  -  Jon Hoadley
+1944  -  Renee Hoagenson
+1945  -  Katie Hobbs
+1946  -  Scott Hochberg
+1947  -  Kathy Hochul
+1948  -  Glenna Hodge
+1949  -  Ken Hodges
+1950  -  Dawson Hodgson
+1951  -  Pete Hoekstra
+1952  -  Kathy Hoffman
+1953  -  Kay Hoflander
+1954  -  David Hogg
+1955  -  Ilyse Hogue
+1956  -  Eric Holcomb
+1957  -  Rebecca Holcombe
+1958  -  Doug Holder
+1959  -  Eric Holder
+1960  -  Tamara Holder
+1961  -  George Holding
+1962  -  John Holdren
+1963  -  Ryan Holets
+1964  -  Lee Holloway
+1965  -  Josh Holmes
+1966  -  David Holmes
+1967  -  Eleanor Holmes Norton
+1968  -  Jim Holperin
+1969  -  Steven Holt
+1970  -  Rush Holt
+1971  -  Dwight Holton
+1972  -  Lowell Holtz
+1973  -  Douglas Holtz-Eakin
+1974  -  Mike Honda
+1975  -  Francesca Hong
+1976  -  With Honor
+1977  -  Ron Hood
+1978  -  Margaret Hoover
+1979  -  Randy Hopper
+1980  -  Jennifer Horn
+1981  -  Tom Horne
+1982  -  Denny Hoskins
+1983  -  Carl Hosticka
+1984  -  Sunny Hostin
+1985  -  Jay Hottinger
+1986  -  Harry Houck
+1987  -  Edd Houck
+1988  -  Arizona House Democrats
+1989  -   House Majority PAC
+1990  -   House Natural Resources Committee Republicans
+1991  -   House Republican Conference
+1992  -   House Republicans
+1993  -   House Republican staff
+1994  -  Karin Housley
+1995  -  Ora Houston
+1996  -  Sam Houston
+1997  -   HoustonChronicle-tv.com
+1998  -  Eric Hovde
+1999  -  Lynette Howard
+2000  -  Donna Howard
+---- saved progress -----
+2001  -  Paul Howard
+2002  -  Lynn Howe
+2003  -  William Howell
+2004  -  Janet Howell
+2005  -  Steny Hoyer
+2006  -  Peggy Hubbard
+2007  -  Karen Huber
+2008  -  William Benson Huber
+2009  -  Mike Huckabee
+2010  -  Sarah Huckabee Sanders
+2011  -  Hank Huckaby
+2012  -  Ralph Hudgens
+2013  -  Richard Hudson
+2014  -  Ann Hudspeth
+2015  -  Mike Huebsch
+2016  -  Aubrey Huff
+2017  -  Don Huffines
+2018  -  Arianna Huffington
+2019  -  Jim Huffman
+2020  -  Bryan Hughes
+2021  -  Tom Hughes
+2022  -  Tim Hugo
+2023  -  Brett Hulsey
+2024  -  Brit Hume
+2025  -  John Humphries
+2026  -  Carol Hunstein
+2027  -  Al Hunt
+2028  -  Dave Hunt
+2029  -  Tommy Hunter
+2030  -  Duncan Hunter
+2031  -  Duncan Hunter
+2032  -  Todd Hunter
+2033  -  Jon Huntsman
+2034  -  John Huppenthal
+2035  -  Will Hurd
+2036  -  Diane Hurley
+2037  -  Julia Hurley
+2038  -  Robert Hurt
+2039  -  Jon Husted
+2040  -  Markel Hutchins
+2041  -  Kay Bailey Hutchison
+2042  -  John Hutson
+2043  -  Rob Hutton
+2044  -  Mike Hymes
+2045  -   Ideas Illinois
+2046  -  Arsalan Iftikhar
+2047  -  David Ignatius
+2048  -  SEIU Healthcare Illinois & Indiana
+2049  -   Illinois Republican Party
+2050  -   Illinois Rising Action
+2051  -  Stella Immanuel
+2052  -   Immigration Policy Center
+2053  -   Impact America Action
+2054  -  Deirdre Imus
+2055  -  Austin Independent School District
+2056  -   Independent Texans
+2057  -   Independent Voice for Illinois PAC
+2058  -   Infowars
+2059  -  Laura Ingraham
+2060  -  James Inhofe
+2061  -  Wisconsin Initiative
+2062  -  Dustin Inman Society
+2063  -  Jay Inslee
+2064  -   Instagram posts
+2065  -  Heartland Institute
+2066  -  Illinois Policy Institute
+2067  -  Illinois Family Institute
+2068  -   Institute for Energy Research
+2069  -   Institute for Women's Policy Research
+2070  -  Urban Intellectuals
+2071  -  Survival International
+2072  -   International News Trends
+2073  -   Internet commenters
+2074  -   Investor's Business Daily
+2075  -   Iowa Democratic Party
+2076  -   Iowa GOP state legislators
+2077  -   Iowa House Democrats
+2078  -   Iowans for Some Semblance of Christian Decency
+2079  -   Iowa Republican Party
+2080  -   Iowa Senate Democrats
+2081  -  Shaun Ireland
+2082  -  Richard Irvin
+2083  -  Jason Isaac
+2084  -  Johnny Isakson
+2085  -  Celia Israel
+2086  -  Steve Israel
+2087  -  Darrell Issa
+2088  -   It's Still a Bad Idea
+2089  -  Job Itzkowitz
+2090  -  Jeanne Ives
+2091  -  Debbie Jackow
+2092  -  Ronny Jackson
+2093  -  Jesse Jackson
+2094  -  Darren Jackson
+2095  -  Ted Jackson
+2096  -  Jeff Jackson
+2097  -  Victoria Jackson
+2098  -  E.W. Jackson
+2099  -  Bill Jackson
+2100  -  Sheila Jackson Lee
+---- saved progress -----
+2101  -  Bernard Jackvony
+2102  -  Mark Jacobs
+2103  -  Chris Jacobs
+2104  -  A.J. Jacobs
+2105  -  Sonji Jacobs
+2106  -  Robert Jacquard
+2107  -  Andre Jacque
+2108  -  John James
+2109  -  Tim James
+2110  -  Letitia James
+2111  -  Donzella James
+2112  -  Lindsay James
+2113  -  Sly James
+2114  -  Craig James
+2115  -  Bill Janis
+2116  -  Adam Jarchow
+2117  -  Gregg Jarrett
+2118  -  Valerie Jarrett
+2119  -  Jonathan Jarvis
+2120  -  Rick Jasperse
+2121  -  Pramila Jayapal
+2122  -  Karine Jean-Pierre
+2123  -  Rula Jebreal
+2124  -  Terry Jeffrey
+2125  -  Hakeem Jeffries
+2126  -  Scott Jenkins
+2127  -  Lynn Jenkins
+2128  -  Evan Jenkins
+2129  -  Malcolm Jenkins
+2130  -  Caitlyn Jenner
+2131  -  Jeff Jensen
+2132  -   Jersey Central Power & Light
+2133  -  Morten Jerven
+2134  -  Nancy Jester
+2135  -  Mark Jewell
+2136  -  Bobby Jindal
+2137  -  Xi Jinping
+2138  -   Jobs Ohio
+2139  -  Elton John
+2140  -   John Birch Society
+2141  -   John Bolton SuperPAC
+2142  -  Dawn Johnsen
+2143  -  Derrick Johnson
+2144  -  Eric Johnson
+2145  -  Gary Johnson
+2146  -  Bill Johnson
+2147  -  Eddie Bernice Johnson
+2148  -  Larry Johnson
+2149  -  William Johnson
+2150  -  Hank Johnson
+2151  -  Sam Johnson
+2152  -  Melissa Johnson
+2153  -  Ron Johnson
+2154  -  Anthony Johnson
+2155  -  Mike Johnson
+2156  -  Mark Johnson
+2157  -  LaTonya Johnson
+2158  -  Benny Johnson
+2159  -  Cavalier Johnson
+2160  -  Boris Johnson
+2161  -   Johnson Controls
+2162  -  Patrick Johnston
+2163  -  David Jolly
+2164  -  James Jolly
+2165  -  Kendall Jones
+2166  -  Seneca Jones
+2167  -  Julius Jones
+2168  -  Jerry Jones
+2169  -  Dwight Jones
+2170  -  Vernon Jones
+2171  -  Doug Jones
+2172  -  Martavius Jones
+2173  -  Alex Jones
+2174  -  Dennis Jones
+2175  -  Van Jones
+2176  -  Jan Jones
+2177  -  Scott Jones
+2178  -  Chris Jones
+2179  -  Kaya Jones
+2180  -  Mary Jordan
+2181  -  Jim Jordan
+2182  -  Kris Jordan
+2183  -  Brian Joseph
+2184  -  Colin Jost
+2185  -  Dave Joyce
+2186  -  Arthenia Joyner
+2187  -  Grady Judd
+2188  -  Ashley Judd
+2189  -  Patty Judge
+2190  -   Judicial Confirmation Network
+2191  -   Judicial Watch
+2192  -  Jeff Judson
+2193  -  Paul Junge
+2194  -  Charlie Justice
+2195  -  Demand Justice
+2196  -  Jim Justice
+2197  -   Just the News
+2198  -  Colin Kaepernick
+2199  -  Deborah Kafoury
+2200  -  Elena Kagan
+---- saved progress -----
+2201  -  Glenn Kage
+2202  -  Steve Kagen
+2203  -  Nick Kahl
+2204  -  Tim Kaine
+2205  -  Pardeep Kaleka
+2206  -  Amardeep Kaleka
+2207  -  Warren Kampf
+2208  -  Ted Kanavas
+2209  -  Jason Kander
+2210  -  Robert Kando
+2211  -  Lauren Kane
+2212  -  Dan Kapanke
+2213  -  Chris Kapenga
+2214  -  Jeremy Kapstein
+2215  -  Marcy Kaptur
+2216  -  Fred Karger
+2217  -  Jonathan Karl
+2218  -  Jill Karofsky
+2219  -  John Kasich
+2220  -  Marc Kasowitz
+2221  -  Terry Katsma
+2222  -  Marc Katz
+2223  -  Joyce Kaufman
+2224  -  Dan Kaufman
+2225  -  Josh Kaul
+2226  -  Brian Kavanagh
+2227  -  Brett Kavanaugh
+2228  -  Katty Kay
+2229  -  Tom Kean
+2230  -  Jack Keane
+2231  -  Tom Kean Jr.
+2232  -  Eric Kearney
+2233  -  Michael Kearns
+2234  -  Frank Keating
+2235  -  Philip Keefe
+2236  -  Joel Keehn
+2237  -  Vernon Keenan
+2238  -  Tarina Keene
+2239  -   Keep Austin Healthy PAC
+2240  -   Keep Conservatives United
+2241  -  Oath Keepers
+2242  -   Keep the Promise 1 PAC
+2243  -  Jim Keffer
+2244  -  Brianna Keilar
+2245  -  Pam Keith
+2246  -  Reps. Keith Rothfus, Mike Kelly and Bill Shuster
+2247  -  Jason Keller
+2248  -  Gary Kelly
+2249  -  Mike Kelly
+2250  -  Hannah Kelly
+2251  -  Minka Kelly
+2252  -  Greg Kelly
+2253  -  Megyn Kelly
+2254  -  Brendan Kelly
+2255  -  John Kelly
+2256  -  Mark Kelly
+2257  -  Daniel Kelly
+2258  -  Brian Kemp
+2259  -  Kip Kendrick
+2260  -  John Kennedy
+2261  -  Chris Kennedy
+2262  -  Bryan Kennedy
+2263  -  Joe Kennedy
+2264  -  Brian Patrick Kennedy
+2265  -  Patrick Kennedy
+2266  -  John Kennedy
+2267  -  Robert F. Kennedy, Jr.
+2268  -  Bill Kennemer
+2269  -  Chris Garrett and Bill Kennemer
+2270  -  Jim Kenney
+2271  -  Phil Kent
+2272  -   Kentucky Opportunity Coalition
+2273  -  Alissa Keny-Guyer
+2274  -  Mike Keown
+2275  -  Gil Kerlikowske
+2276  -  Joe Kernen
+2277  -  Phil Kerpen
+2278  -  Steve Kerr
+2279  -  John Kerry
+2280  -  Barbara Keshishian
+2281  -  Nicholas Kettle
+2282  -  Scott Keyes
+2283  -  Jon Keyser
+2284  -  Khizr Khan
+2285  -  Ro Khanna
+2286  -  Martin Kiar
+2287  -  Jane Kidd
+2288  -  Colleen Kiernan
+2289  -  Ruben Kihuen
+2290  -  Kevin Kiley
+2291  -  Larry Kilgore
+2292  -  Peter Kilmartin
+2293  -  Brian Kilmeade
+2294  -  Ron Kim
+2295  -  Jimmy Kimmel
+2296  -  Ban Ki-moon
+2297  -  Bob Kincaid
+2298  -  Ron Kind
+2299  -  Peter Kinder
+2300  -  Peter King
+---- saved progress -----
+2301  -  Bob King
+2302  -  Angus King
+2303  -  D.A. King
+2304  -  Steve King
+2305  -  Stephen King
+2306  -  Chris King
+2307  -  Steven King
+2308  -  Tom King
+2309  -  Karl King
+2310  -  Jessica King
+2311  -  Phil King
+2312  -  John King
+2313  -  Kernan "Kerry" King
+2314  -  Jack Kingston
+2315  -  Adam Kinzinger
+2316  -   Kiplinger.com
+2317  -  John Kirby
+2318  -  Charlie Kirk
+2319  -  Mark Kirk
+2320  -  Ann Kirkpatrick
+2321  -  Steve Kirsch
+2322  -  Henry Kissinger
+2323  -  Tyler Kistner
+2324  -  John Kitzhaber
+2325  -  Kimberly Klacik
+2326  -  Ron Klain
+2327  -  Joel Klatt
+2328  -  Rebecca Kleefisch
+2329  -  Joel Kleefisch
+2330  -  Ron Klein
+2331  -  John Klenke
+2332  -  John Kline
+2333  -  Amy Klobuchar
+2334  -  JoAnne Kloppenburg
+2335  -  Tim Knopp
+2336  -  Michael Knowles
+2337  -  Ramey Ko
+2338  -  Kris Kobach
+2339  -  Charles Koch
+2340  -  Andrew Koenig
+2341  -  Herb Kohl
+2342  -  Dan Kohl
+2343  -  Sally Kohn
+2344  -  Brian Kolb
+2345  -  Brian Kolfage
+2346  -  Lois Kolkhorst
+2347  -  Jennifer Konfrst
+2348  -  Anna Kooiman
+2349  -  Steven Koonin
+2350  -  Robert Koons
+2351  -  Linda Koop
+2352  -  Dale Kooyenga
+2353  -  Kaye Kory
+2354  -  Chris Koster
+2355  -  Jeff Kottkamp
+2356  -  Nik Kovac
+2357  -  Jeanette Kowalik
+2358  -  Robert Kraig
+2359  -  Ben Kral
+2360  -  Larry Krasner
+2361  -  Will Kraus
+2362  -  Bruce Kraus
+2363  -  Charles Krauthammer
+2364  -  Joyce Krawiec
+2365  -  Paige Kreegel
+2366  -  Pat Kreitlow
+2367  -  Jesse Kremer
+2368  -  Amy Kremer
+2369  -  Stephen Kretzmann
+2370  -  Rick Kriseman
+2371  -  Nicholas Kristof
+2372  -  Bill Kristol
+2373  -  Alan Krueger
+2374  -  Liz Krueger
+2375  -  Paul Krugman
+2376  -  Jeff Kruse
+2377  -  Ronald Kuby
+2378  -  Dennis Kucinich
+2379  -  Charles Kuck
+2380  -  Larry Kudlow
+2381  -  Sri Preston Kulkarni
+2382  -  María Teresa Kumar
+2383  -  Francis Kung'u
+2384  -  Tony Kurtz
+2385  -  Jared Kushner
+2386  -  Jon Kyl
+2387  -  Jim Kyle
+2388  -  Joseph Kyrillos
+2389  -  Raul Labrador
+2390  -   Ladies of Liberty
+2391  -  Stephen Laffey
+2392  -  Doug La Follette
+2393  -  Christine Lagarde
+2394  -  Raymond LaHood
+2395  -  Darin LaHood
+2396  -  Tomi Lahren
+2397  -  Rosemary Laird
+2398  -  Kari Lake
+2399  -  Doug LaMalfa
+2400  -  Conor Lamb
+---- saved progress -----
+2401  -  Gary Lambert
+2402  -  Jim Lamon
+2403  -  Jim Lamon
+2404  -  Ovide Lamontagne
+2405  -  Jim Lampley
+2406  -  Lanny Lancaster
+2407  -  Leonard Lance
+2408  -  Ken Lanci
+2409  -  Richard Land
+2410  -  Terri Lynn Land
+2411  -  Steven Landes
+2412  -  Mary Landrieu
+2413  -  Ian Lang
+2414  -  Roberta Lange
+2415  -  James Langevin
+2416  -  Ken Langone
+2417  -  Nicholas Langworthy
+2418  -  Martha Laning
+2419  -  James Lankford
+2420  -  Beatrice Lanzi
+2421  -  Wayne LaPierre
+2422  -  Ricardo Lara
+2423  -  Troy LaRaviere
+2424  -   La Raza
+2425  -  Brent Larkin
+2426  -  Dave LaRock
+2427  -  Lars Larson
+2428  -  Lyle Larson
+2429  -  Chris Larson
+2430  -  John Larson
+2431  -  Frank Lasee
+2432  -  Alex Lasry
+2433  -  Julie Lassa
+2434  -  Babur Lateef
+2435  -  Steve LaTourette
+2436  -  Bob Latta
+2437  -  Jake LaTurner
+2438  -  Jack Latvala
+2439  -  Chris Latvala
+2440  -  Susan Latvala
+2441  -  Jodie Laubenberg
+2442  -  Matt Lauer
+2443  -  Frank Lautenberg
+2444  -  Peter Lavelle
+2445  -  George Lavender
+2446  -  Sergey Lavrov
+2447  -  Terry Lawler
+2448  -  10 GOP Louisiana Lawmakers
+2449  -  Edward Lawrence
+2450  -  Adam Laxalt
+2451  -  Mary Lazich
+2452  -  Rick Lazio
+2453  -   Leaders for a Better Community
+2454  -  Common Sense Leadership Fund
+2455  -  New Leadership PAC
+2456  -   Leaflet
+2457  -   League of Conservation Voters
+2458  -   League of Women Voters of Florida
+2459  -   League of Women Voters of Texas Education Fund
+2460  -   League of Women Voters of the Austin Area
+2461  -  Patrick Leahy
+2462  -   LearnProgress.org
+2463  -  Fran Lebowitz
+2464  -  Lilly Ledbetter
+2465  -  Tyler Lee
+2466  -  John Lee
+2467  -  Michael Lee
+2468  -  Susie Lee
+2469  -  Mike Lee
+2470  -  Barbara Lee
+2471  -  Tim Lee
+2472  -  General Beauregard Lee
+2473  -  Virginia "Jennie Lou" Leeder
+2474  -  Lee Leffingwell
+2475  -   Left Action
+2476  -  John Legend
+2477  -  Ken Legler
+2478  -  Charlotte Lehan
+2479  -  John Lehman
+2480  -  Rosemary Lehmberg
+2481  -  Peggy Lehner
+2482  -  Debra Lehrmann
+2483  -  Joe Leibham
+2484  -  Devin LeMahieu
+2485  -  George LeMieux
+2486  -  Don Lemon
+2487  -  Jay Leno
+2488  -  Randy Leonard
+2489  -  Paul LePage
+2490  -  Tom Leppert
+2491  -  Steve Leslie
+2492  -  Raymond Lesniak
+2493  -  Lawrence Lessig
+2494  -   Let America Work
+2495  -   Let Freedom Ring
+2496  -   Let's Get To Work
+2497  -  Tom Letson
+2498  -  Sharlene Leurig
+2499  -  Allan Levene
+2500  -  Hillary Mann Leverett
+---- saved progress -----
+2501  -  Paul Levesque
+2502  -  Mark Levin
+2503  -  Sander Levin
+2504  -  Carl Levin
+2505  -  Philip Levine
+2506  -  Kevin Levitas
+2507  -  Joseph Levy
+2508  -  Jack Lew
+2509  -  Corey Lewandowski
+2510  -  Lorraine Lewandrowski
+2511  -  Karen Lewis
+2512  -  David Lewis
+2513  -  John Lewis
+2514  -  Carl Lewis
+2515  -  Ray Lewis
+2516  -   LGBT Progress
+2517  -   Liberal Blogger
+2518  -   Liberals Are Cool
+2519  -   Libertarian National Committee
+2520  -   Libertarian Party of Broward County
+2521  -   Libertarian Party of Georgia
+2522  -   Libertarian Party of Texas
+2523  -   Liberty Alliance
+2524  -   Liberty Counsel
+2525  -   Liberty Headlines
+2526  -   Liberty Institute
+2527  -   Libraries Yes! Committee
+2528  -   LIBRE Initiative
+2529  -  Richard Licht
+2530  -  Joe Lieberman
+2531  -  Aaron Lieberman
+2532  -  Ted Lieu
+2533  -  Lori Lightfoot
+2534  -  Kimberly Lightford
+2535  -   Lights For Liberty
+2536  -  Charlene Lima
+2537  -  Rush Limbaugh
+2538  -  Blanche Lincoln
+2539  -   Lincoln Project
+2540  -  Joee Lindbeck
+2541  -  Mike Lindell
+2542  -  Shawn Lindsay
+2543  -  Thomas Lindsay
+2544  -  Edward Lindsey
+2545  -  Scott Lingamfelter
+2546  -  Ann Lininger
+2547  -  Dennis Linthicum
+2548  -  Maxine Lipeles
+2549  -  Daniel Lipinski
+2550  -  Stephen Lisauskas
+2551  -  Annie's List
+2552  -  Michelle Litjens
+2553  -  Alison Littell McHose
+2554  -  Christopher Little
+2555  -  Anna Little
+2556  -   Livable Damascus
+2557  -  Ryan Lizza
+2558  -  Daniel Llanes
+2559  -  Rees Lloyd
+2560  -  Frank LoBiondo
+2561  -   Local 799 of the International Assoc. of Fire Fighters
+2562  -  Mamie Locke
+2563  -  Dave Loebsack
+2564  -  Kelly Loeffler
+2565  -  Dana Loesch
+2566  -  Zoe Lofgren
+2567  -  Lara Logan
+2568  -   Log Cabin Republicans
+2569  -  John Lombardi
+2570  -  Bjorn Lomborg
+2571  -   LondonWebNews.com
+2572  -  Steve Lonegan
+2573  -   Lone Star First
+2574  -   Lone Star Project
+2575  -  Michael Long
+2576  -  Ralph Long
+2577  -  Wendy Long
+2578  -  Bryan Long
+2579  -  Evan Longoria
+2580  -  Eva Longoria Baston
+2581  -  Steve Loomis
+2582  -  Alfonso Lopez
+2583  -  Delia Lopez
+2584  -  Carlos Lopez-Cantera
+2585  -  Jeffrey Loria
+2586  -  DeAnna Lorraine
+2587  -  John Lott
+2588  -  John Loud
+2589  -  Barry Loudermilk
+2590  -  John Loughlin
+2591  -   LoveThisPic.com
+2592  -  Marcus Low
+2593  -  Tom Lowe
+2594  -  Nita Lowey
+2595  -  Rich Lowry
+2596  -  Mario Loyola
+2597  -  Earnell Lucas
+2598  -  Dan Lucas
+2599  -  Tom Luce
+2600  -  Eddie Lucio, Jr.
+---- saved progress -----
+2601  -  John Ludlow
+2602  -  Richard Lugar
+2603  -  Cynthia Lummis
+2604  -   Lumos
+2605  -  Alison Lundergan Grimes
+2606  -  Matt Lundy
+2607  -  Dan Lungren
+2608  -  Frank Luntz
+2609  -  Elaine Luria
+2610  -   Lyft
+2611  -  Cormick Lynch
+2612  -  Bill Lynch
+2613  -  Loretta Lynch
+2614  -  Patrick Lynch
+2615  -  Erin Lynch
+2616  -  Ted Lyon
+2617  -  Ron Maag
+2618  -  John Macco
+2619  -  Michael MacDonald
+2620  -  Ed MacDougall
+2621  -  Nancy Mace
+2622  -  Doug MacGinnitie
+2623  -   MacIver Institute
+2624  -  Connie Mack
+2625  -  Matt Mackowiak
+2626  -  Rachel Maddow
+2627  -  Scott Maddox
+2628  -  Carrie Madej
+2629  -  Michael Madigan
+2630  -   Madison Action Fund
+2631  -  David Madland
+2632  -  Seth Magaziner
+2633  -  Bill Maher
+2634  -  Daily Mail
+2635  -   Majority Forward
+2636  -   Majority PAC
+2637  -   Make Us Great Again
+2638  -  Mike Males
+2639  -  Robert Malin
+2640  -  Tom Malinowski
+2641  -  Michelle Malkin
+2642  -  Nicole Malliotakis
+2643  -  Dannel Malloy
+2644  -  Chris Malone
+2645  -  Carolyn Maloney
+2646  -  Sean Patrick Maloney
+2647  -  Paul Manafort
+2648  -  Joe Manchin
+2649  -  Eva Marie Mancuso
+2650  -  Josh Mandel
+2651  -  Paul Maner
+2652  -  Paul Mango
+2653  -  Scott Manley
+2654  -  Jeff Mann
+2655  -  Kathy Manning
+2656  -  Judy Manning
+2657  -  Mary Mannix
+2658  -  Tax March
+2659  -  Jim Marchant
+2660  -  Sergio Marchionne
+2661  -   Marco Rubio's heckler
+2662  -  Ruth Marcus
+2663  -  Natasha Marcus
+2664  -   Marijuana Policy Project
+2665  -  Louis Marinelli
+2666  -  Dominick Marino
+2667  -  Tom Marino
+2668  -  Jack Markell
+2669  -  Edward Markey
+2670  -  Howard Marklein
+2671  -  Joshua Marquis
+2672  -  Dave Marsden
+2673  -  Bob Marshall
+2674  -  Roger Marshall
+2675  -  Jim Marshall
+2676  -  Jim Marston
+2677  -  Roland Martin
+2678  -  Curtis Martin
+2679  -  Vicki Martin
+2680  -  Stephen Martin
+2681  -  Mike Martinez
+2682  -  Susana Martinez
+2683  -  Miriam Martinez
+2684  -  Trey Martinez Fischer
+2685  -  Robert Martwick
+2686  -  Merry Marwig
+2687  -   Marylanders to Prevent Gun Violence Education Fund
+2688  -  Cory Mason
+2689  -   Massachusetts legislature
+2690  -  Thomas Massie
+2691  -  Jimmie Massie
+2692  -  Blake Masters
+2693  -  Mary Matalin
+2694  -  Liz Mathis
+2695  -  John Matson
+2696  -  Chris Matthews
+2697  -  Nicholas Mattiello
+2698  -  Joyce Mauk
+2699  -  Zerlina Maxwell
+2700  -  Lee May
+---- saved progress -----
+2701  -  Chad Mayes
+2702  -  Julie Mayfield
+2703  -  LaWana Mayfield
+2704  -  Debbie Mayfield
+2705  -  Ally Maynard
+2706  -  Alejandro Mayorkas
+2707  -   Mayors Against Illegal Guns
+2708  -  Roman McAllen
+2709  -  Rick McAllister
+2710  -  Michael McAuliff
+2711  -  Terry McAuliffe
+2712  -  Lucy McBath
+2713  -  Ray McBerry
+2714  -  Mike McCabe
+2715  -  Meghan McCain
+2716  -  John McCain
+2717  -  Matt McCall
+2718  -  Chris McCalla
+2719  -  John McCallum
+2720  -  Tere McCann
+2721  -  Tom McCarey
+2722  -  Kevin McCarthy
+2723  -  Garry McCarthy
+2724  -  Claire McCaskill
+2725  -  Betsy McCaughey
+2726  -  Michael McCaul
+2727  -  Stanley McChrystal
+2728  -  Lisa McClain
+2729  -  Jennifer McClellan
+2730  -  Tom McClintock
+2731  -  Patricia McCloskey
+2732  -  Peter McCollough
+2733  -  Betty McCollum
+2734  -  Bill McCollum
+2735  -  Mitch McConnell
+2736  -  Gerald McCormick
+2737  -  Dave McCormick
+2738  -  Bill McCoshen
+2739  -  Thaddeus McCotter
+2740  -  Scott McCown
+2741  -  Steve McCraw
+2742  -  Dan McCready
+2743  -  Tracy McCreery
+2744  -  Pat McCrory
+2745  -  Limberbutt McCubbins
+2746  -  Allie McCullen
+2747  -  Ronna McDaniel
+2748  -  Jim McDermott
+2749  -  Robert McDonald
+2750  -  Michael McDonald
+2751  -  Bob McDonnell
+2752  -  Saundra McDowell
+2753  -  Donald McEachin
+2754  -  Kayleigh McEnany
+2755  -  Mike McFadden
+2756  -  Nancy McFarlane
+2757  -  Yvette McGee Brown
+2758  -  Kionne McGhee
+2759  -  Heather McGhee
+2760  -  Kelly McGinn
+2761  -  Tim McGinty
+2762  -  Katie McGinty
+2763  -  Chuck McGrady
+2764  -  Matt McGrath
+2765  -  Phil McGraw
+2766  -  Jim McGreevey
+2767  -  John McGuire
+2768  -  Mick McGuire
+2769  -  Brett McGurk
+2770  -  Patrick McHenry
+2771  -  Gavin McInnes
+2772  -  Don McIntire
+2773  -  Jess McIntosh
+2774  -  Mike McIntyre
+2775  -  Gene McIntyre
+2776  -  Kenneth McKay
+2777  -  Lamar McKay
+2778  -  Daniel McKee
+2779  -  Diane McKeel
+2780  -  Patrick McKenna
+2781  -  Vicki McKenna
+2782  -  Eugene McKenna
+2783  -  John McKeon
+2784  -  Caddy McKeown
+2785  -  David McKinley
+2786  -  Robert McKinzie
+2787  -  Josh McKoon
+2788  -  Ann McLane Kuster
+2789  -  Linda McMahon
+2790  -  Cathy McMorris Rodgers
+2791  -  Ron McMullen
+2792  -  Evan McMullin
+2793  -  Nate McMurray
+2794  -  Russell McMurry
+2795  -  Alex McMurtrie Jr.
+2796  -  Joseph McNamara
+2797  -  Clarence McNeill
+2798  -  Steve McQueen
+2799  -  Bill McRaven
+2800  -  Martha McSally
+---- saved progress -----
+2801  -  Desmond Meade
+2802  -  Mark Meadows
+2803  -   Meals on Wheels of Rhode Island
+2804  -  Sara Meaney
+2805  -  Tom Mechler
+2806  -   Meddaily
+2807  -  Carolyn Medeiros
+2808  -  Social Media
+2809  -   Media Matters
+2810  -  Various media reports 2
+2811  -   Media Trackers
+2812  -  Debra Medina
+2813  -  Michael Medved
+2814  -  Kendrick Meek
+2815  -  Vince Megna
+2816  -  Hemant Mehta
+2817  -  Ari Melber
+2818  -  Melissa Melendez
+2819  -  David Mellon
+2820  -  Lainey Melnick
+2821  -  Helio Melo
+2822  -  Thomas Melsheimer
+2823  -  Craig Melvin
+2824  -  Coalition To Save Memorial Hospital Birthing Center
+2825  -   Memphis Police Association
+2826  -  David Menchetti
+2827  -  Susana Mendoza
+2828  -  Robert Menendez
+2829  -  Alicia Menendez
+2830  -   Menendez Facts
+2831  -   Menominee Indian Tribe of Wisconsin
+2832  -  Ken Mercer
+2833  -  Jeff Merkley
+2834  -  Lee Merritt
+2835  -  Wayne Messam
+2836  -  Luke Messer
+2837  -  Daryl Metcalfe
+2838  -   Metro
+2839  -   Metro Atlanta Voter Education Network
+2840  -   Metropolitan North Georgia Water Planning District
+2841  -  Harold Metts
+2842  -  Ron Meyer
+2843  -  Cynthia Meyer
+2844  -   Miami-Dade County
+2845  -   Miami Seaport Alliance
+2846  -  John Mica
+2847  -  Dan Micciche
+2848  -  Tim Michels
+2849  -   Michigan Democratic Party
+2850  -  Daniel Mielke
+2851  -  Alyssa Milano
+2852  -  Dana Milbank
+2853  -  Scott Milder
+2854  -  David Miliband
+2855  -  Fran Millar
+2856  -  Joe Miller
+2857  -  Stephen Miller
+2858  -  Quentin Miller
+2859  -  Sid Miller
+2860  -  Mary Miller
+2861  -  Matt Miller
+2862  -  Carol Miller
+2863  -  Zell Miller
+2864  -  Craig Miller
+2865  -  Kathy Miller
+2866  -  Butch Miller
+2867  -  Joshua Miller
+2868  -  Mark Miller
+2869  -  Jeff Miller
+2870  -  Doug Miller
+2871  -  Jason MIller
+2872  -  Betsy Miller-Jones
+2873  -  Mariannette Miller-Meeks
+2874  -   Milwaukeeans for Self-Governance
+2875  -   Milwaukee County Board of Supervisors
+2876  -   Milwaukee County Sheriff's Office
+2877  -   Milwaukee Journal Sentinel
+2878  -   Milwaukee Metropolitan Sewerage District
+2879  -   Milwaukee Police Association
+2880  -  Russian Ministry of Defense
+2881  -  Walt Minnick
+2882  -   Miscellany Blue
+2883  -   Miss California USA
+2884  -   Missouri Democratic Party
+2885  -   Missouri Department of Economic Development
+2886  -   Missouri GOP
+2887  -   Missouri House Democratic Caucus
+2888  -  Mahlon Mitchell
+2889  -  B. Heath Mitchell
+2890  -  Bill Mitchell
+2891  -  Andrea Mitchell
+2892  -  Janet Mitchell
+2893  -  Jason Miyares
+2894  -  Steve Mnuchin
+2895  -  Becky Moeller
+2896  -  Chris Moews
+2897  -  Rudy Moise
+2898  -  Marc Molinaro
+2899  -  Ralph Mollis
+2900  -   Moms Demand Action for Gun Sense In America
+---- saved progress -----
+2901  -   Moms Rising
+2902  -  Christopher Monckton
+2903  -  Ernest Moniz
+2904  -  Laurie Monnes Anderson
+2905  -  Rod Monroe
+2906  -  Steve Montenegro
+2907  -  Bill Montford
+2908  -  Mindy Montford
+2909  -  Ashley Moody
+2910  -  Robby Mook
+2911  -   Mooncult
+2912  -  Alex Mooney
+2913  -  Gwen Moore
+2914  -  Heather Moore
+2915  -  Patrick Moore
+2916  -  Tim Moore
+2917  -  Steve Moore
+2918  -  Roy Moore
+2919  -  Shelly Moore
+2920  -  Michael Moore
+2921  -  Dan Moore
+2922  -  Lisa Moore
+2923  -  James Moore
+2924  -  Kayla Moore
+2925  -  Bee Moorhead
+2926  -  John Moorlach
+2927  -  Wick Moorman
+2928  -  Alfonso Morales
+2929  -  Jeff Morales
+2930  -  Brian Moran
+2931  -  Jim Moran
+2932  -  Michael Morell
+2933  -  Piers Morgan
+2934  -  John Morgan
+2935  -  Patricia Morgan
+2936  -  John G. Morgan
+2937  -  Carol Morgan
+2938  -  Marc Morial
+2939  -  Peter Morici
+2940  -  Greg Morris
+2941  -  Dick Morris
+2942  -  Patrick Morrisey
+2943  -  Richard Morrison
+2944  -  Joe Morrissey
+2945  -  Jessica Morse
+2946  -  Brandon Morse
+2947  -  Michelle Mosby
+2948  -  Jonathon Moseley
+2949  -  Rob Moshein
+2950  -  Dennis Moss
+2951  -   Mother Jones
+2952  -   Mothers Against Drunk Driving
+2953  -   Motion Picture Association of America
+2954  -  Markos Moulitsas
+2955  -  Seth Moulton
+2956  -  Terry Moulton
+2957  -   MoveOn.org
+2958  -  Jim Mowrer
+2959  -   Mr. Conservative
+2960  -   MSNBC
+2961  -   Mt. Hood Community College
+2962  -  Debbie Mucarsel-Powell
+2963  -  Doug Muder
+2964  -  Robert Mujica
+2965  -  Michael Mule'
+2966  -  Mike Mullen
+2967  -  Markwayne Mullin
+2968  -  Pat Mullins
+2969  -  Jeff Mullis
+2970  -   Multnomah County
+2971  -   Multnomah County Library Foundation
+2972  -  Mick Mulvaney
+2973  -  Leslie Geissler Munger
+2974  -  Steve Munisteri
+2975  -  Cecilia Muñoz
+2976  -  Dave Muntzel
+2977  -  Janet Murguía
+2978  -  Mike Murphy
+2979  -  Tim Murphy
+2980  -  Chris Murphy
+2981  -  Jack Murphy
+2982  -  Patrick Murphy
+2983  -  Michael Murphy
+2984  -  Greg Murphy
+2985  -  Mike Murphy
+2986  -  Stephanie Murphy
+2987  -  Kathleen Murphy
+2988  -  Patty Murray
+2989  -  John Murtha
+2990  -   Musclecarusa.info
+2991  -  Maram Museitif
+2992  -  Elon Musk
+2993  -  Stefan Mychajliw
+2994  -   My City Bikes
+2995  -  LaKeshia Myers
+2996  -  Kim Myers
+2997  -   NAACP
+2998  -  Ralph Nader
+2999  -  Jamie Nadler
+3000  -  Jerrold Nadler
+---- saved progress -----
+3001  -  Elliott Naishtat
+3002  -  Anissa Naouai
+3003  -  Andrew Napolitano
+3004  -  Janet Napolitano
+3005  -   NARAL Pro-Choice America
+3006  -   NARAL Pro-Choice New York
+3007  -   NARAL Pro-Choice Virginia
+3008  -  Charlotte Nash
+3009  -  Jason Nassour
+3010  -  Nancy Nathanson
+3011  -   National Association for Gun Rights
+3012  -   National Association of Manufacturers
+3013  -   National Association of Realtors
+3014  -   National Border Patrol Council
+3015  -   National Education Association
+3016  -   National Federation of Independent Business-Florida
+3017  -   National Federation of Independent Business-Virginia
+3018  -   National Federation of Independent Business-Wisconsin
+3019  -   National Federation of the Blind
+3020  -   National Football League
+3021  -   National Organization for Marriage
+3022  -   National Partnership for Women & Families
+3023  -   National Republican Congressional Committee
+3024  -   National Republican Senatorial Committee
+3025  -   National Republican Trust PAC
+3026  -   National Review
+3027  -   National Rifle Association
+3028  -   National Right to Life Committee
+3029  -   National Taxpayers Union
+3030  -   National Women's Law Center
+3031  -   Nation of Islam Research Group
+3032  -   Nationwide
+3033  -   NaturalNews.com
+3034  -  Ruben Navarrette Jr.
+3035  -  Peter Navarro
+3036  -  Ana Navarro
+3037  -  Martina Navratilova
+3038  -   N.C. Republicans
+3039  -  George Nee
+3040  -  Michael Needham
+3041  -  Joe Negron
+3042  -  Troy Nehls
+3043  -  Peter Nehr
+3044  -  Scott Neitzel
+3045  -  Kimberly Nelson
+3046  -  Bill Nelson
+3047  -  Ben Nelson
+3048  -  Eric Nelson
+3049  -  Justin Nelson
+3050  -  Tom Nelson
+3051  -  Donna Nesselbush
+3052  -  Benjamin Netanyahu
+3053  -  Greta Neubauer
+3054  -  Randy Neugebauer
+3055  -  Mark Neumann
+3056  -   Nevada Assembly Republican Candidates
+3057  -   Nevada Republican Party
+3058  -   New Approach Oregon
+3059  -   New Bedford Republican Committee
+3060  -  Brian Newberry
+3061  -   New Boston Republican Committee
+3062  -   New Century Times
+3063  -   New Day for America
+3064  -  Steve Newgard
+3065  -   New Georgia Encyclopedia
+3066  -   New Hampshire Democratic Party
+3067  -   New Hampshire Republican Party
+3068  -   New Jersey Assembly Democrats
+3069  -   New Jersey Democratic State Committee
+3070  -   New Jersey Education Association
+3071  -   New Jersey Republican State Committee
+3072  -   New Jersey Senate Democrats
+3073  -   New Jersey Sierra Club
+3074  -   New Jersey Tea Party
+3075  -  Stacey Newman
+3076  -  Marie Newman
+3077  -  Republican News
+3078  -   NewsExaminer.net
+3079  -   Newsflash
+3080  -   news.groopspeak.com
+3081  -   Newslo.com
+3082  -   Newsmax
+3083  -  Gavin Newsom
+3084  -   Newstarget
+3085  -  ABC NEWS-US
+3086  -   NewsWars
+3087  -   Newsweek
+3088  -  Paul Newton
+3089  -   New York City Police Benevolent Association
+3090  -   New York Republican State Committee
+3091  -   New York Times
+3092  -   New York Times Editorial Board
+3093  -   NextGen Climate Action Committee
+3094  -   NFL Players Association
+3095  -   NH AFL-CIO
+3096  -  Frank Niceley
+3097  -  Kevin Nicholson
+3098  -  Wiley Nickel
+3099  -  Kathy Nickolaus
+3100  -  Tom Niehaus
+---- saved progress -----
+3101  -  Kirstjen Nielsen
+3102  -  Danielle Nierenberg
+3103  -  Peter Nightingale
+3104  -  Cynthia Nixon
+3105  -  Jay Nixon
+3106  -   NJ-CAN
+3107  -  Trevor Noah
+3108  -   No Casinos
+3109  -  Stephen Nodine
+3110  -  Kristi Noem
+3111  -   nofakenews-online
+3112  -  Max Nofziger
+3113  -  Colion Noir
+3114  -  Anne Nolan
+3115  -  Mary Nolan
+3116  -   No on 56 campaign
+3117  -   No on 60 campaign against condom requirement in adult films
+3118  -  Peggy Noonan
+3119  -  California Together, No On Proposition 1
+3120  -  George Norcross
+3121  -   Norcross City Council
+3122  -  Lois Norder
+3123  -  Thomas Norment, Jr.
+3124  -  Grover Norquist
+3125  -  Chuck Norris
+3126  -  Oliver North
+3127  -  Rick North
+3128  -  Ralph Northam
+3129  -   North Carolina Democratic Party
+3130  -   North Carolina Futures Action Fund
+3131  -   North Carolina Healthcare Association
+3132  -   North Carolina Republican Party
+3133  -   North Carolina state House Democratic Caucus
+3134  -   North Dakota Democratic–Nonpartisan League Party
+3135  -   North Korean foreign ministry
+3136  -  Jane Norton
+3137  -  Mary Norwood
+3138  -   No Tax For Tracks
+3139  -  Cocks Not Glocks
+3140  -   Nourtey
+3141  -   Nova magazine
+3142  -   Now8News.com
+3143  -   Now or Never PAC
+3144  -   NowThis
+3145  -   Nowtrump.com
+3146  -  Ted Nugent
+3147  -   NumbersUSA
+3148  -  Devin Nunes
+3149  -  Michelle Nunn
+3150  -  Zach Nunn
+3151  -  Nancy Nusbaum
+3152  -   NYDailyNews-TV.com
+3153  -  Glenn Nye
+3154  -   NY Evening News
+3155  -   NY FOX News
+3156  -  John Nygren
+3157  -   NYS Department of Corrections and Community Supervision
+3158  -  Ron Oakley
+3159  -  Barack Obama
+3160  -  Michelle Obama
+3161  -   Obama Girl
+3162  -   Obama's heckler
+3163  -  John O'Bannon
+3164  -  Dean Obeidallah
+3165  -  Mark Obenshain
+3166  -  Kate Obenshain
+3167  -  Jim Oberweis
+3168  -  Dave Obey
+3169  -  Tim O'Brien
+3170  -  William O'Brien
+3171  -  Jon O'Brien
+3172  -  Kennedy O'Brien
+3173  -  Alexandria Ocasio-Cortez
+3174  -   Occupational Knowledge International
+3175  -   Occupied Wall Street Journal
+3176  -   Occupy Democrats
+3177  -   Occupy Providence
+3178  -   Occupy Wall Street
+3179  -   Ocean State Policy Research Institute
+3180  -  Danny O'Connor
+3181  -  Rachel O'Connor
+3182  -  Shawn O'Connor
+3183  -  Larry O'Connor
+3184  -  Charles Odimgbe
+3185  -  Dan O'Donnell
+3186  -  Lawrence O'Donnell
+3187  -  Kelly O'Donnell
+3188  -  Christine O'Donnell
+3189  -  Steve Oelrich
+3190  -  Steve Ogden
+3191  -   Ohio Alliance for Retired Americans
+3192  -   Ohioans Against Deceptive Rx Ballot Issue
+3193  -   Ohio Coal Association
+3194  -   Ohio Democratic Party
+3195  -   Ohio Department of Transportation
+3196  -   Ohio Federation of Teachers
+3197  -   Ohio Gun Owners
+3198  -   Ohio House Republican Organizational Committee
+3199  -   Ohio Oil and Gas Association
+3200  -   Ohio Public Defender's Office
+---- saved progress -----
+3201  -   Ohio Republican Party
+3202  -   Ohio Right to Life
+3203  -   Ohio Taxpayers for Lower Drug Prices
+3204  -  Jack Ohman
+3205  -  Richard Ojeda
+3206  -   Oklahoma Council of Public Affairs
+3207  -  Cindy O’Laughlin
+3208  -  Keith Olbermann
+3209  -  Sam Olens
+3210  -  José Oliva
+3211  -  John Oliver
+3212  -  Sheila Oliver
+3213  -  Mary Margaret Oliver
+3214  -  Jamie Oliver
+3215  -  Luther Olsen
+3216  -  Pete Olson
+3217  -  Ted Olson
+3218  -  Mary Olson
+3219  -  Erin Marie Olszewski
+3220  -  Martin O'Malley
+3221  -  Ilhan Omar
+3222  -  Mark O'Mara
+3223  -  Jane O’Meara Sanders
+3224  -  No on 67
+3225  -  Bob Onder
+3226  -  Larry O'Neal
+3227  -  James O'Neil
+3228  -  Michael O'Neill
+3229  -  Bill O'Neill
+3230  -   One Nation
+3231  -   One Nation PAC
+3232  -   One New Jersey
+3233  -   One Wisconsin Now
+3234  -  Nrt Online
+3235  -   Online commentators
+3236  -   Online petition
+3237  -  If You Only News
+3238  -   Only Politics
+3239  -   Onward Ohio
+3240  -  Michael Opitz
+3241  -  Israel O'Quinn
+3242  -   Oregon 2014
+3243  -   Oregon Ballot Measure 81
+3244  -   Oregon Business Association
+3245  -   Oregon Catalyst
+3246  -   Oregon Center for Public Policy
+3247  -   Oregon Citizens Lobby
+3248  -   Oregon Department of Agriculture
+3249  -   Oregon Department of Fish and Wildlife
+3250  -   Oregon Education Association
+3251  -   Oregon Environmental Council-Oregon Business Association
+3252  -   Oregon Food Bank
+3253  -   Oregon Health Authority
+3254  -   Oregon Healthy Kids
+3255  -   Oregon League of Conservation Voters
+3256  -   Oregon Lottery
+3257  -   Oregon PTA
+3258  -   Oregon Public Employees Retirement System
+3259  -   Oregon Republican Party
+3260  -   Oregon Right to Life PAC
+3261  -   Oregon Senate Republicans (The Leadership Fund)
+3262  -   Oregon Transformation Project
+3263  -  Bill O'Reilly
+3264  -   Organizers for Bernie 2020
+3265  -   Organizing for Action
+3266  -   Organizing for America
+3267  -  Steve Oroho
+3268  -  Beto O'Rourke
+3269  -  Nan Orrock
+3270  -  Peter Orszag
+3271  -  Frank Ortis
+3272  -  Robert Ortt
+3273  -  Declan O'Scanlon
+3274  -  Maryellen O'Shaughnessy
+3275  -  Jon Ossoff
+3276  -  The Other 98%
+3277  -   Other Space
+3278  -  H. Marlene O'Toole
+3279  -  Kevin O'Toole
+3280  -  Jim Ott
+3281  -  Bob Ott
+3282  -  Doug Otto
+3283  -   Our American Century
+3284  -  Our City, Our Safety, Our Choice
+3285  -   Our Democracy 2020
+3286  -   OurLandOfTheFree.com
+3287  -   Our Oregon
+3288  -   Our Portland, Our Schools
+3289  -  Michael T. Owens
+3290  -  Mackubin Thomas Owens
+3291  -  Candace Owens
+3292  -  John Oxendine
+3293  -   Oxfam Ireland
+3294  -  Mehmet Oz
+3295  -  Ismael Ozanne
+3296  -  Independence USA PAC
+3297  -  Julie Pace
+3298  -  Edwin Pacheco
+3299  -  George Packer
+3300  -  Josh Pade
+---- saved progress -----
+3301  -  John Padgett
+3302  -  Rickey Padgett
+3303  -  Alex Padilla
+3304  -  Weston Pagano
+3305  -  Richard Paglia
+3306  -  John Pagliarini
+3307  -  Gary Painter
+3308  -  Teresa Paiva Weed
+3309  -  Carl Paladino
+3310  -  Sarah Palin
+3311  -  Frank Pallone
+3312  -  Gary Palmer
+3313  -  Gwyneth Paltrow
+3314  -  Peter Palumbo
+3315  -  Tom Palzewicz
+3316  -  Richard Pan
+3317  -  Leon Panetta
+3318  -  Peter Pantuso
+3319  -  George Papadopoulos
+3320  -  Albert Papp Jr.
+3321  -  Elena Parent
+3322  -  James Parisi
+3323  -  Joe Parisi
+3324  -  Kevin Parker
+3325  -  Annise Parker
+3326  -  Keith Parker
+3327  -  Lindsay Parkhurst
+3328  -  Beth Parlato
+3329  -  Julie Parrish
+3330  -  Jennifer Parrish
+3331  -  Arlen Parsa
+3332  -  Brad Parscale
+3333  -  Mike Parson
+3334  -  Sandy Pasch
+3335  -  Bill Pascrell
+3336  -  Kathleen Passidomo
+3337  -  George Pataki
+3338  -   Patients First
+3339  -  Deval Patrick
+3340  -  John Patrick
+3341  -  Dan Patrick
+3342  -   PatriotCrier.com
+3343  -   Patriot Majority PAC
+3344  -   Patriot Majority USA
+3345  -   Patriotnetwork.one
+3346  -   Patriot News Alerts
+3347  -  Matt Patten
+3348  -  Jerry Patterson
+3349  -  Jim Patterson
+3350  -  Jan Patterson
+3351  -  Tom Pauken
+3352  -  Rand Paul
+3353  -  Ron Paul
+3354  -  Erik Paulsen
+3355  -  Katie Pavlich
+3356  -  Tim Pawlenty
+3357  -  Ken Paxton
+3358  -  Charles Payne
+3359  -  Donald Payne
+3360  -  Christopher Peace
+3361  -  Allen Peake
+3362  -  Russell Pearce
+3363  -  Amy Pechacek
+3364  -  Doug Pederson
+3365  -  Bill Peduto
+3366  -  Keith Pekau
+3367  -  Clay Pell
+3368  -  Nancy Pelosi
+3369  -  Mike Pence
+3370  -  Kal Penn
+3371  -  Joe Pennacchio
+3372  -  David Pennington
+3373  -   Penn Progress
+3374  -   Pennsylvania Conservative Fund
+3375  -   People for the American Way
+3376  -   People for the Ethical Treatment of Animals
+3377  -   People's Majority
+3378  -  Crystal Peoples-Stokes
+3379  -  David Pepper
+3380  -  Nina Perales
+3381  -  David Perdue
+3382  -  Sonny Perdue
+3383  -  Thomas Perez
+3384  -  Dana Perino
+3385  -  Tony Perkins
+3386  -  Ed Perlmutter
+3387  -  Tom Perriello
+3388  -  Mark Perry
+3389  -  Anita Perry
+3390  -  Scott Perry
+3391  -  Charles Perry
+3392  -  Rick Perry
+3393  -  William Perry
+3394  -  Dmitry Peskov
+3395  -  Kathleen Peters
+3396  -  Scott Peters
+3397  -  Ralph Peters
+3398  -  Gary Peters
+3399  -  Chap Petersen
+3400  -  Dale Peterson
+---- saved progress -----
+3401  -  James Peterson
+3402  -  Tom Petri
+3403  -  Jim Petro
+3404  -  Sam Brown Petsonk
+3405  -   Pew Environment Group
+3406  -  Dan Pfeiffer
+3407  -  Nancy Pfotenhauer
+3408  -   Pharmaceutical Research and Manfacturers of America
+3409  -  Steve Phelps
+3410  -  D. Cole Phelps
+3411  -   Philadelphia Daily News
+3412  -  Judson Phillips
+3413  -  Elaine Phillips
+3414  -   Physicians Committee for Responsible Medicine
+3415  -   Physicians for Fair Coverage
+3416  -  Ted Piccolo
+3417  -  Katrina Pierson
+3418  -  Tommie Pierson Jr.
+3419  -  Patricia Pike
+3420  -   Pink Pony
+3421  -   Pink Slip Rick
+3422  -  Dr. Drew Pinsky
+3423  -   Pipo News
+3424  -  Jeanine Pirro
+3425  -  John Pistole
+3426  -   Pitbull
+3427  -  Susan Pitman
+3428  -  Robert Pittenger
+3429  -  Larry Pittman
+3430  -  Robb Pitts
+3431  -  Joe Pitts
+3432  -  Leonard Pitts, Jr.
+3433  -   PJ Media
+3434  -  Jeff Plale
+3435  -   Planned Parenthood
+3436  -   Planned Parenthood Action Fund
+3437  -   Planned Parenthood PAC
+3438  -   Planned Parenthood Votes
+3439  -  Mike Plant
+3440  -  Christopher Plante
+3441  -   PlantsNeedCO2.org
+3442  -  Danielle Pletka
+3443  -  David Plouffe
+3444  -  Ken Plum
+3445  -  John Plumb
+3446  -  Mark Pocan
+3447  -  John Podesta
+3448  -  Ted Poe
+3449  -  Steve Poizner
+3450  -  Joe Pojman
+3451  -  Mike Polensek
+3452  -  Firearms Policy Coalition
+3453  -  Vincent Polistina
+3454  -   Political Insider
+3455  -   Political Thinkers
+3456  -   Politicono.com
+3457  -  Verfied Politics
+3458  -   Politics WatchDog
+3459  -  PolitiFact go PolitiFact go
+3460  -   PolitiFact Sheet
+3461  -  Mike Pompeo
+3462  -  Sarah Ponder
+3463  -  Sondy Pope
+3464  -  Katie Porter
+3465  -  David Porter
+3466  -  DuBose Porter
+3467  -  Danny Porter
+3468  -   Portland Association of Teachers
+3469  -   Portland Bureau of Transportation (PBOT)
+3470  -   Portland Community College
+3471  -   Portlanders for Water Reform
+3472  -   Portland Public Schools
+3473  -  Rob Portman
+3474  -  Bill Posey
+3475  -  Jack Posobiec
+3476  -  Bill Post
+3477  -  New York Post
+3478  -  J.B. Powell
+3479  -  Sidney Powell
+3480  -  Wayne Powell
+3481  -  Bill Powell
+3482  -  Colin Powell
+3483  -  Alan Powell
+3484  -  Bill Powers
+3485  -  Kirsten Powers
+3486  -   Power to the Patients
+3487  -  Dennis Prager
+3488  -  Marvin Pratt
+3489  -  Larry Pratt
+3490  -   Pray in Jesus Name Project
+3491  -  Toni Preckwinkle
+3492  -  Mike Prendergast
+3493  -   Presente.org
+3494  -   Preserve America PAC
+3495  -   President Trump's lawyers
+3496  -  The Associated Press
+3497  -  Larry Pressler
+3498  -  Laura Pressley
+3499  -  Roman Prezioso
+3500  -  Theresa Price
+---- saved progress -----
+3501  -  David Price
+3502  -  Tom Price
+3503  -  Tricia Pridemore
+3504  -  Don Pridemore
+3505  -  Reince Priebus
+3506  -  Vincent Prieto
+3507  -   Principled PAC
+3508  -  Our Principles PAC
+3509  -  Ian Prior
+3510  -   Priorities USA Action
+3511  -  Penny Pritzker
+3512  -  JB Pritzker
+3513  -   Pro Conservative News
+3514  -  Bill Proctor
+3515  -   Progress Florida
+3516  -   Progress for Austin PAC
+3517  -   Progress Iowa
+3518  -   Progressive Change Campaign Committee
+3519  -   Progressive Change Campaign Committee and Democracy for America
+3520  -   Progressive Choice Florida
+3521  -   Progress Ohio
+3522  -   Progress Texas
+3523  -  Texas Organizing Project
+3524  -   Pro-Life Wisconsin
+3525  -   Promote Oregon Leadership PAC (Oregon House Republicans)
+3526  -  David Prosser
+3527  -   Protect American Jobs
+3528  -   Protect Families First
+3529  -   Protect Your Vote
+3530  -   Protect Your Vote Ohio
+3531  -   Providence City Council
+3532  -  Scott Pruitt
+3533  -  Mark Pryor
+3534  -  Jen Psaki
+3535  -   Public Citizen
+3536  -   Public comments at a Common Core hearing
+3537  -   Public employee unions
+3538  -   Public Notice
+3539  -  Chicago Public Schools
+3540  -  State Public Service Announcement
+3541  -  Phillip Puckett
+3542  -  Robert Puente
+3543  -  Robert Puente
+3544  -  Joy Pullmann
+3545  -   PuppetStringNews.com
+3546  -  Aftab Pureval
+3547  -   Put Alaska First PAC
+3548  -  Vladimir Putin
+3549  -  Adam Putnam
+3550  -  Andy Puzder
+3551  -  Crystal Quade
+3552  -  Ellen Qualls
+3553  -  Gordon Quan
+3554  -  Rebecca Quigley
+3555  -  Christine Quinn
+3556  -  Pat Quinn
+3557  -  Romaine Quinn
+3558  -  James Quintero
+3559  -  David Quiroa
+3560  -   R2RMerge
+3561  -  Jordan Rachel
+3562  -  Omar Rachid
+3563  -  Karl Racine
+3564  -  Martha Raddatz
+3565  -  Jeff Rader
+3566  -  Kevin Rader
+3567  -  Joe Radinovich
+3568  -  Barbara Ann Radnofsky
+3569  -  Christine Radogno
+3570  -  Jamie Radtke
+3571  -  Branko Radulovacki
+3572  -  Jason Rae
+3573  -  John Raese
+3574  -  Brad Raffensperger
+3575  -  John Rafferty
+3576  -   Raging Elephants
+3577  -  Nick Rahall
+3578  -  Gina Raimondo
+3579  -   Rainbow/PUSH Coalition
+3580  -  David Ralston
+3581  -  Jorge Ramos
+3582  -  Dan Ramos
+3583  -  Charles Ramsey
+3584  -  Ron Ramsey
+3585  -  Russell James Ramsland Jr.
+3586  -  Timothy Ramthun
+3587  -  Scott Randolph
+3588  -  Rick Range
+3589  -  Charles Rangel
+3590  -  Kwame Raoul
+3591  -  Leonidas Raptakis
+3592  -  Qasim Rashid
+3593  -  Sam Rashid
+3594  -  Jamie Raskin
+3595  -  Will Rasmussen
+3596  -  John Ratcliffe
+3597  -  Bill Ratliff
+3598  -  Thomas Ratliff
+3599  -  Steven Rattner
+3600  -  Bruce Rauner
+---- saved progress -----
+3601  -  Diane Ravitch
+3602  -  Mike Rawlings
+3603  -  David Raynor
+3604  -   React365.com
+3605  -  Tobias Read
+3606  -   Reader
+3607  -  Michael Reagan
+3608  -   Reaganwasright
+3609  -   Really American
+3610  -   RealNewsRightNow.com
+3611  -   Realtimepolitics
+3612  -   Realtime Politics
+3613  -  Jeff Reardon
+3614  -   Rearfront.com
+3615  -   Rebuilding America Now
+3616  -   Reclaim America PAC
+3617  -   Recovery.gov
+3618  -  Chris Redfern
+3619  -   Red State Wave
+3620  -   Red, White and Blue Fund
+3621  -  Charles Reed
+3622  -  Tom Reed
+3623  -  Ralph Reed
+3624  -  Kasim Reed
+3625  -  Jack Reed
+3626  -  Michael Reese
+3627  -  Tate Reeves
+3628  -  Bryce Reeves
+3629  -  Campaign to Regulate Marijuana Like Alcohol
+3630  -  Michelle Rehwinkel Vasilinda
+3631  -  Robert Reich
+3632  -  Harry Reid
+3633  -  Joy Reid
+3634  -  Brendan Reilly
+3635  -  Kevin Reilly
+3636  -  Rhue Reis
+3637  -  Cheri Toalson Reisch
+3638  -  Bonnie Reiss
+3639  -   religionmind.com
+3640  -  Jim Renacci
+3641  -  Ed Rendell
+3642  -  Anthony Rendon
+3643  -   Renewable Fuels Association
+3644  -  Sabino "Pio" Renteria
+3645  -  Ronald Renuart
+3646  -   Represent.us
+3647  -  Project Republic
+3648  -   Republican Governors Association
+3649  -   Republican Jewish Coalition
+3650  -   Republican National Committee
+3651  -  New Republican PAC
+3652  -   Republican Party of Florida
+3653  -   Republican Party of Georgia
+3654  -   Republican Party of Pennsylvania
+3655  -   Republican Party of Texas
+3656  -   Republican Party of Virginia
+3657  -   Republican Party of Wisconsin
+3658  -   Republican presidents
+3659  -   Republican state Assembly candidates in Wisconsin
+3660  -   Republican State Leadership Committee
+3661  -   Republican state senators
+3662  -   Resistance Report
+3663  -  Sheila Resseger
+3664  -   Restoration PAC
+3665  -   Restore American Freedom and Liberty
+3666  -  Committee to Restore America's Greatness
+3667  -   Restore Our Future
+3668  -   ReverbPress
+3669  -   Revitalize Cobb
+3670  -   RevolutionRadio.org
+3671  -  Silvestre Reyes
+3672  -  Kim Reynolds
+3673  -  Michelle Rhee
+3674  -  Kitty Rhoades
+3675  -   Rhode Island ACLU
+3676  -   Rhode Island Center for Freedom and Prosperity
+3677  -   Rhode Island Retirement Security Coalition
+3678  -   Rhode Island Senate
+3679  -   Rhode Island Tea Party
+3680  -  Ben Rhodes
+3681  -  Reid Ribble
+3682  -  David Rible
+3683  -  Susan Rice
+3684  -  Ronald Rice
+3685  -  Everett Rice
+3686  -  Nan Rich
+3687  -  Cecile Richards
+3688  -  Jon Richards
+3689  -  Bobbie Richardson
+3690  -  Dennis Richardson
+3691  -  Billy Richardson
+3692  -  Bill Richardson
+3693  -  Todd Richardson
+3694  -  Boyd Richie
+3695  -   Rick Scott's Starbucks heckler
+3696  -  Debbie Riddle
+3697  -  Wes Riddle
+3698  -   Ridesharing Works for Austin
+3699  -  Daniel Riemer
+3700  -  Lynda Rife
+---- saved progress -----
+3701  -  Scott Rigell
+3702  -  Denver Riggleman
+3703  -  Louis Riggs
+3704  -  Dale Righter
+3705  -   RightMarch.com
+3706  -   Right to Rise
+3707  -  Chris Riley
+3708  -  Chuck Riley
+3709  -  Michael Riley
+3710  -  Jason Riley
+3711  -  Kevin Rinke
+3712  -  Matt Rinker
+3713  -  James Risch
+3714  -  Fred Risser
+3715  -  Allan Ritter
+3716  -  David Rivera
+3717  -  Geraldo Rivera
+3718  -  Terrie Rizzo
+3719  -  Sloan Roach
+3720  -  Julio Robaina
+3721  -  Michael Roberson
+3722  -  Cecil Roberts
+3723  -  Elizabeth Roberts
+3724  -  Cokie Roberts
+3725  -  Jay Roberts
+3726  -  Jack Roberts
+3727  -  John Roberts
+3728  -  Pat Roberts
+3729  -  Pat Robertson
+3730  -  Gordon Robertson
+3731  -  Willie Robertson
+3732  -  Phil Robertson
+3733  -  Martha Robertson
+3734  -  Emerald Robinson
+3735  -  Gerard Robinson
+3736  -  Art Robinson
+3737  -  Brian Robinson
+3738  -  Mark Robinson
+3739  -  Eugene Robinson
+3740  -  John Robitaille
+3741  -   Robocaller
+3742  -  Blake Rocap
+3743  -  Kid Rock
+3744  -  James Rockall
+3745  -  Jay Rockefeller
+3746  -   Rock the Vote
+3747  -  Brad Rockwell
+3748  -  John Rodgers
+3749  -  Aaron Rodgers
+3750  -  Jose Rodriguez
+3751  -  Sara Rodriguez
+3752  -  Daniel Rodriguez
+3753  -  Eddie Rodriguez
+3754  -  Phil Roe
+3755  -  Buddy Roemer
+3756  -  Joe Rogan
+3757  -  Wayne Rogers
+3758  -  Anthony Rogers
+3759  -  Mike Rogers
+3760  -  Desiree Rogers
+3761  -  Kesha Rogers
+3762  -  Mike Rogers
+3763  -  Chip Rogers
+3764  -  Patience Roggensack
+3765  -  J. James Rohack
+3766  -  Dana Rohrabacher
+3767  -  Al Roker
+3768  -  Todd Rokita
+3769  -  Calvine Rollins
+3770  -  Joe Roman
+3771  -  Mike Romano
+3772  -  Christina Romer
+3773  -  Paul Romero
+3774  -  Gloria Romero Roses
+3775  -  Mitt Romney
+3776  -   Romney allies
+3777  -  Sylvia Romo
+3778  -  Shana Rooks
+3779  -  Tom Rooney
+3780  -  James Roosevelt
+3781  -  Patrick Rose
+3782  -  Jacky Rosen
+3783  -  Michael Rosen
+3784  -  Hilary Rosen
+3785  -  Tina Rosenberg
+3786  -  Ellen Rosenblum
+3787  -  Matthew Rosendale
+3788  -  Hetty Rosenstein
+3789  -  Jon Rosenthal
+3790  -  Peter Roskam
+3791  -  Ileana Ros-Lehtinen
+3792  -  Jalen Ross
+3793  -  Deborah Ross
+3794  -  Roxanne Ross
+3795  -  Scot Ross
+3796  -  Dennis Ross
+3797  -  Dino Rossi
+3798  -  Nancy Rotering
+3799  -  Roger Roth
+3800  -  Keith Rothfus
+---- saved progress -----
+3801  -  Steve Rothman
+3802  -  Matthew Rothschild
+3803  -  David Rouzer
+3804  -  Karl Rove
+3805  -  Caleb Rowden
+3806  -  Travis Rowley
+3807  -  J.K. Rowling
+3808  -  Chip Roy
+3809  -   Roy Barnes and Nathan Deal
+3810  -  Kelda Helen Roys
+3811  -  Jim Rubens
+3812  -  Marco Rubio
+3813  -  Chris Ruddy
+3814  -  Phil Ruffin
+3815  -  Stephanie Ruhle
+3816  -  Donald Rumsfeld
+3817  -  Emil Runge
+3818  -  Jon Runyan
+3819  -  Stony Rushing
+3820  -  Terry Russell
+3821  -  Kevin Russell
+3822  -   Russian Embassy in Canada
+3823  -   Russia Today
+3824  -   Ruth's List Florida
+3825  -  William Ruto
+3826  -  Paul Ryan
+3827  -  Derek Ryan
+3828  -  Tim Ryan
+3829  -  Bob Ryan
+3830  -  Sean Ryan
+3831  -  Mike Ryan
+3832  -  Kai Ryssdal
+3833  -  Larry Sabato
+3834  -  Antonio Sabato Jr.
+3835  -  Pari Sabety
+3836  -  Rick Saccone
+3837  -  Maria Sachs
+3838  -   Sacramento Bee Editorial Board
+3839  -  Paul Sadler
+3840  -  Jonathan Saenz
+3841  -   Safe Routes to Schools
+3842  -   Safety For All Initiative
+3843  -  Karen Sage
+3844  -  Chris Salcedo
+3845  -  Paul Saldaña
+3846  -   Salmon for All
+3847  -  Dan Saltzman
+3848  -  Jack Salzwedel
+3849  -  Jamie Samons
+3850  -  Jeremiah Samples
+3851  -  Loretta Sanchez
+3852  -  Linda Sánchez
+3853  -  Henry Sanders
+3854  -  Bernie Sanders
+3855  -  Bennett Sandlin
+3856  -  Franklin Sands
+3857  -  Carla Sands
+3858  -  Joe Sanfelippo
+3859  -  Marjorie Sanfilippo
+3860  -  Mark Sanford
+3861  -  Evelyn Sanguinetti
+3862  -  Steve Santarsiero
+3863  -  Rick Santorum
+3864  -  Erika Sanzi
+3865  -  Vicki Saporta
+3866  -  Melissa Sargent
+3867  -  Paul Sarlo
+3868  -  Robert Sarvis
+3869  -  Richard Saslaw
+3870  -  Ben Sasse
+3871  -  Gary Sasse
+3872  -  Julia Sass Rubin
+3873  -  Ron Saunders
+3874  -  Michael Savage
+3875  -   Save America PAC
+3876  -   Save America's Postal Service
+3877  -   Save Flexible Spending Plans
+3878  -   Save My Care
+3879  -   Save Our City, Milwaukeeans Can't Wait
+3880  -   Save Our Springs Alliance
+3881  -  Diane Savino
+3882  -   Say Anything Blog
+3883  -  Antonin Scalia
+3884  -  Steve Scalise
+3885  -  Anthony Scaramucci
+3886  -  Joe Scarborough
+3887  -  Jeremy Schaap
+3888  -  Kurt Schaefer
+3889  -  Gary Schaer
+3890  -  Jan Schakowsky
+3891  -  Steven Schale
+3892  -  Marc Schare
+3893  -  Eve Schatelowitz Alcantar
+3894  -  Brian Schatz
+3895  -  Mike Schaufler
+3896  -  Adam Schefter
+3897  -  Maxey Scherr
+3898  -  Heidi Scheuermann
+3899  -  Bob Schieffer
+3900  -  Adam Schiff
+---- saved progress -----
+3901  -  Curt Schilling
+3902  -  Brad Schimel
+3903  -  Robin Schimminger
+3904  -  Michael Schirling
+3905  -  Phyllis Schlafly
+3906  -  Matt Schlapp
+3907  -  Mark Schlereth
+3908  -  Steve Schmidt
+3909  -  Jean Schmidt
+3910  -  Colin Schmitt
+3911  -  Eric Schmitt
+3912  -  Rob Schmitt
+3913  -  Brad Schneider
+3914  -  Eric Schneiderman
+3915  -  Adam Schnelting
+3916  -  J.D. Scholten
+3917  -   School Freedom Fund
+3918  -  Michael Schraa
+3919  -  Kurt Schrader
+3920  -  Stephanie Schriock
+3921  -  Nick Schroer
+3922  -  Michael Schrunk
+3923  -  Kurt Schuller
+3924  -  Laura Schulte
+3925  -  Ed Schultz
+3926  -  Howard Schultz
+3927  -  Amy Schumer
+3928  -  Charles Schumer
+3929  -  Jill Schupp
+3930  -  Dave Schwartz
+3931  -  Hunter Schwarz
+3932  -  Arnold Schwarzenegger
+3933  -  Brian Schweitzer
+3934  -  Peter Schweizer
+3935  -  David Sciarra
+3936  -  John Scocos
+3937  -  Tim Scott
+3938  -  Mike Scott
+3939  -  Phil Scott
+3940  -  Bobby Scott
+3941  -  Rick Scott
+3942  -  Austin Scott
+3943  -  David Scott
+3944  -  Tom Scott
+3945  -  Michael Screnock
+3946  -  Jeff Scrima
+3947  -  Kendall Scudder
+3948  -  Nicholas Scutari
+3949  -  Dan Seals
+3950  -  Victoria Seaman
+3951  -  Bob Sears
+3952  -   Seattle Police Department
+3953  -   SeaWorld
+3954  -  Kathleen Sebelius
+3955  -  Dan Sebring
+3956  -   Secure America Now
+3957  -  David Segal
+3958  -  Bob Seger
+3959  -  Basil Seggos
+3960  -  Donna Seidel
+3961  -  Louis Seidman
+3962  -  Jack Seiler
+3963  -  Bill Seitz
+3964  -   SEIU
+3965  -   SEIU, District 1199
+3966  -  Jay Sekulow
+3967  -  Sherill Sellman
+3968  -   Seminole Tribe of Florida
+3969  -   Senate Conservatives Fund
+3970  -   Senate Democrats
+3971  -   Senate Leadership Fund
+3972  -   Senate Majority PAC
+3973  -   Senate Republican Conference
+3974  -   Senate Republicans
+3975  -   Senior Citizens League
+3976  -  Daniel Senor
+3977  -  Jim Sensenbrenner
+3978  -  Common Sense News
+3979  -   Sensible Transportation Solutions for Austin PAC
+3980  -  Eugene Sepulveda
+3981  -  José Serrano
+3982  -  Jeff Sessions
+3983  -  Pete Sessions
+3984  -  Joe Sestak
+3985  -  David Sewell
+3986  -  Buck Sexton
+3987  -  Nick Seymour
+3988  -  Thomas Sgouros Jr.
+3989  -  Chris Sgro
+3990  -  Vicki Shabo
+3991  -  Randi Shade
+3992  -  David Shafer
+3993  -  Raj Shah
+3994  -  Jeanne Shaheen
+3995  -  Donna Shalala
+3996  -  Farouk Shami
+3997  -  Katrina Shankland
+3998  -  Ben Shapiro
+3999  -  Susan Shapiro
+4000  -  Josh Shapiro
+---- saved progress -----
+4001  -   Shared This
+4002  -  Barbara Sharief
+4003  -  Pearson Sharp
+4004  -  John Sharp
+4005  -  Mark Sharpe
+4006  -  Al Sharpton
+4007  -  Brigid Shea
+4008  -  Carol Shea-Porter
+4009  -  Kathy Sheehan
+4010  -  Tim Sheehy
+4011  -  Richard Shelby
+4012  -   Sheriff David Clarke for U.S. Senate
+4013  -  John Sherman
+4014  -  Glenford Shibley
+4015  -  Mike Shields
+4016  -  Mark Shields
+4017  -  Jennifer Shilling
+4018  -  John Shimkus
+4019  -  Jeff Shipley
+4020  -  Ron Shipman
+4021  -  Judy Shiprack and Diane McKeel
+4022  -  Mike Shirkey
+4023  -  Martin Shkreli
+4024  -  Marc Short
+4025  -  Sameh Shoukry
+4026  -  Maria Shriver
+4027  -  Peter Shumlin
+4028  -  David Shuster
+4029  -  Melvin Sickler
+4030  -  Mark Sickles
+4031  -  Gary Sides
+4032  -  Rachel Siegel
+4033  -  Carol Siemon
+4034  -   Sierra Club
+4035  -  Mira Signer
+4036  -  Stephen Silberkraus
+4037  -  Astrid Silva
+4038  -  Milly Silva
+4039  -  David Silverman
+4040  -  Sarah Silverman
+4041  -  Kim Simac
+4042  -  David Simas
+4043  -  David Simmons
+4044  -  Barney Simms
+4045  -  Howard Simon
+4046  -  David Simpson
+4047  -  Stephen Simpson
+4048  -  Alan Simpson
+4049  -  Brian Sims
+4050  -  Kyrsten Sinema
+4051  -  Robert Singer
+4052  -  Sonna Singleton
+4053  -  Christine Sinicki
+4054  -  Alex Sink
+4055  -  Samuel Sinyangwe
+4056  -  Albio Sires
+4057  -  Nicole Sirotek
+4058  -  Ryan Sitton
+4059  -  Jim Skaggs
+4060  -  James Skeffington
+4061  -  Michael Skindell
+4062  -  Michael Skolnik
+4063  -  John Skvarla
+4064  -  Louise Slaughter
+4065  -   Slice & Pint brewpub
+4066  -  Clif Smart
+4067  -  Tavis Smiley
+4068  -  Brett Smiley
+4069  -  Adam Smith
+4070  -  Rod Smith
+4071  -  Christy Smith
+4072  -  Carole Smith
+4073  -  Cody Smith
+4074  -  Christopher L. Smith
+4075  -  Erica Smith
+4076  -  Gayle Smith
+4077  -  Evan Smith
+4078  -  Tom "Smitty" Smith
+4079  -  Ashley Smith
+4080  -  Terral Smith
+4081  -  Jason Smith
+4082  -  Nadine Smith
+4083  -  Tina Smith
+4084  -  Fred Smith
+4085  -  Noah Smith
+4086  -  Charlie Smith
+4087  -  Chris Smith
+4088  -  Jimmie T. Smith
+4089  -  JoEllen Smith
+4090  -  Wayne Smith
+4091  -  Lamar Smith
+4092  -  Preston Smith
+4093  -  Vance Smith
+4094  -  Jefferson Smith
+4095  -  Carla Smith
+4096  -  Sandra Smith
+4097  -  Wesley Smith
+4098  -  Martin Smith
+4099  -  Barry Smitherman
+4100  -  Kelly Smits
+---- saved progress -----
+4101  -   Snapchat
+4102  -   Snapple
+4103  -  Alexander Snitker
+4104  -   Snooki
+4105  -   Snoopack.com
+4106  -  Edward Snowden
+4107  -  Pete Snyder
+4108  -   Social Security Works
+4109  -  Paul Soglin
+4110  -   Solar Energy Fairness
+4111  -  Michael Solomon
+4112  -   Someonesbones
+4113  -  Suzanne Somers
+4114  -  Gordon Sondland
+4115  -  Kevin Sorbo
+4116  -  Susan Sosnowski
+4117  -  Sonia Sotomayor
+4118  -  Steve Southerland
+4119  -   South West News Service
+4120  -   soutwest-air.com
+4121  -   Sovereign Citizens United
+4122  -  Thomas Sowell
+4123  -  Zack Space
+4124  -  Charles "Chuck" Spahos
+4125  -  Abigail Spanberger
+4126  -   Special Operations OPSEC Education Fund
+4127  -  Arlen Specter
+4128  -  Jackie Speier
+4129  -  Bill Spelman
+4130  -  Jim Spencer
+4131  -  Gene Sperling
+4132  -  Paul Sperry
+4133  -  Sean Spicer
+4134  -   Spike the Romney Attack Dog
+4135  -  Robert Spindell
+4136  -  Steve Spinnett
+4137  -  Drew Springer
+4138  -  Mary Squires
+4139  -  Debbie Stabenow
+4140  -  Bob Stacey
+4141  -  Paul "Skip" Stam
+4142  -   Stand for America
+4143  -   Stand For Children Tennessee
+4144  -   Stand Up To China
+4145  -  Jason Stanford
+4146  -  Bill Stanley
+4147  -  Todd Staples
+4148  -   Starbucks
+4149  -  Kelli Stargel
+4150  -  Kathryn Starkey
+4151  -  Todd Starnes
+4152  -  Bruce Starr
+4153  -   State Department
+4154  -   states-news.com
+4155  -   State Tea Party Express
+4156  -  Cecil Staton
+4157  -  Cliff Stearns
+4158  -  Michael Steele
+4159  -  Elise Stefanik
+4160  -  James Stegmaier
+4161  -  Bryan Steil
+4162  -  Dan Stein
+4163  -  Josh Stein
+4164  -  Sam Stein
+4165  -  Jill Stein
+4166  -  Darrell Steinberg
+4167  -  Jim Steineke
+4168  -  Gloria Steinem
+4169  -  Jonathan Steitz
+4170  -  Paul Stekler
+4171  -  Brian Stelter
+4172  -  John Stemberger
+4173  -  Mike Stenhouse
+4174  -  Bret Stephens
+4175  -  Marla Stephens
+4176  -  Ron Stephens
+4177  -  E. Frank Stephenson
+4178  -  Stuart Sternberg
+4179  -  Greg Steube
+4180  -  Pat Stevens
+4181  -  Haley Stevens
+4182  -  Sara Stevenson
+4183  -  Corey Stewart
+4184  -  Pam Stewart
+4185  -  Jon Stewart
+4186  -  Andrea Stewart-Cousins
+4187  -  Tom Steyer
+4188  -   StGeorgeGazette.com
+4189  -  Jonathan Stickland
+4190  -  Susan Stimpson
+4191  -  Chris Stirewalt
+4192  -  Dan Stock
+4193  -  David Stockman
+4194  -  Steve Stockman
+4195  -  John Stockton
+4196  -  Connie Stokes
+4197  -  Keith Stokes
+4198  -   Stokes County school teacher
+4199  -  John Stone
+4200  -  Jeff Stone
+---- saved progress -----
+4201  -  Roger Stone
+4202  -  Jeff Stone
+4203  -  Doug Stoner
+4204  -  Levar Stoney
+4205  -   Stop 57 campaign
+4206  -   Stop Deceptive Amendments
+4207  -   Stop Gillnetting Now
+4208  -  Ronda Storms
+4209  -  Raw Story
+4210  -  John Stossel
+4211  -  Sandra Stotsky
+4212  -  Mark Strama
+4213  -  Luther Strange
+4214  -  Kimberley Strassel
+4215  -  Juliana Stratton
+4216  -  Joe Straus
+4217  -  Alexander Strenger
+4218  -  Ted Strickland
+4219  -  Duey Stroebel
+4220  -  Shelia Stubbs
+4221  -   Students for Concealed Carry at FSU
+4222  -   Students for Trump
+4223  -  Bart Stupak
+4224  -  Glen Sturtevant
+4225  -   Suburban Virginia Republican Coalition
+4226  -  Scott Suder
+4227  -  David Suetterlein
+4228  -  Claire Suggs
+4229  -  Dan Sullivan
+4230  -  Jim Sullivan
+4231  -  Kathleen Sullivan
+4232  -  Michael Sullivan
+4233  -  Lawrence Summers
+4234  -  Paul Summers
+4235  -  Duf Sundheim
+4236  -  Chris Sununu
+4237  -  John E. Sununu
+4238  -  Tom Suozzi
+4239  -  The Collective super PAC
+4240  -  Students, Parents and Teachers supporting Marshall Tuck
+4241  -   SupremeInsider.com
+4242  -  Scott Surovell
+4243  -   Susan B. Anthony List
+4244  -  Betty Sutton
+4245  -  David Sutton
+4246  -  Eric Swalwell
+4247  -  Paula Jean Swearengin
+4248  -  Rob Swearingen
+4249  -  Stephen Sweeney
+4250  -  David Sweetser
+4251  -  Richard Swett
+4252  -  Taylor Swift
+4253  -  Charlie Sykes
+4254  -  Sherry Sylvester
+4255  -  Dave Syverson
+4256  -  Annette Taddeo
+4257  -  Victoria Taft
+4258  -  Orly Taitz
+4259  -  George Takei
+4260  -   Talgo Inc.
+4261  -  Tom Tancredo
+4262  -  Neera Tanden
+4263  -  Ken Tanner
+4264  -  Allison Tant
+4265  -  Andrea Tantaros
+4266  -  Teresa Tanzi
+4267  -  Jake Tapper
+4268  -  Mark Tapscott
+4269  -  Jim Taricani
+4270  -  Danny Tarkanian
+4271  -  Jeff Tarte
+4272  -  John Tassoni Jr.
+4273  -  Anthony Tata
+4274  -  Horacena Tate
+4275  -  Mike Tate
+4276  -  Brandon Tatum
+4277  -  Angel Taveras
+4278  -   Tavern League of Wisconsin
+4279  -   Taxpayer Association of Oregon
+4280  -  Chris Taylor
+4281  -  Catherine Taylor
+4282  -  Mary Taylor
+4283  -  Van Taylor
+4284  -  William Taylor
+4285  -  Goldie Taylor
+4286  -  Rashad Taylor
+4287  -  John Taylor
+4288  -  Lena Taylor
+4289  -  Larry Taylor
+4290  -  John Taylor
+4291  -   TDAlliance.com
+4292  -   Tdtalliance.com
+4293  -  Zephyr Teachout
+4294  -   Team PAC
+4295  -   teaparty.org
+4296  -   TeddyStick.com
+4297  -  James Tedisco
+4298  -  Ann Teich
+4299  -  Rob Teilhet
+4300  -  Chris Telfer
+---- saved progress -----
+4301  -   Tennessee Democratic Party
+4302  -   Tennessee Republican Party
+4303  -  Claudia Tenney
+4304  -  Sherri Tenpenny
+4305  -  Bob Terry
+4306  -  Kelly Terry-Willis
+4307  -  Steven Teske
+4308  -  Kris Teske
+4309  -  Joseph Testa
+4310  -  Jon Tester
+4311  -  Patrick Testin
+4312  -   Texans for Accountable Government
+4313  -   Texans for America's Future PAC
+4314  -   Texans for Economic Development
+4315  -   Texans for Reliable Power
+4316  -   Texas Association of Business
+4317  -   Texas Association of School Boards
+4318  -   Texas Campaign for the Environment
+4319  -   Texas Conservatives Fund
+4320  -   Texas Democratic Party
+4321  -   Texas Department of Transportation
+4322  -   Texas Federation of Republican Women
+4323  -   Texas Future
+4324  -   Texas GOP
+4325  -   Texas House Democratic Caucus
+4326  -   Texas Liberty PAC
+4327  -   Texas Medical Association
+4328  -   Texas Public Policy Foundation
+4329  -   Texas Right to Life
+4330  -   Texas secession petition
+4331  -   Texas State Employees Union
+4332  -   Texas Values
+4333  -   Texas Veterans Commission
+4334  -  Charlamagne tha God
+4335  -  Kim Thatcher
+4336  -   ThatViralFeed.net
+4337  -   The Accountability Project
+4338  -   The Agenda Project
+4339  -   The Blaze
+4340  -   The Breaking Dawn
+4341  -   The Campaign to Fix the Debt
+4342  -   The Charlie Kirk Show
+4343  -   The Coalition for Public Schools
+4344  -   The Commonwealth Institute
+4345  -   The Creative Resistance
+4346  -   The Family Foundation
+4347  -   The Freedom Project
+4348  -   The Houston Post
+4349  -  Joe Theismann
+4350  -   TheLastLineOfDefense.org
+4351  -   The Liberty Raise
+4352  -   The Manila Times
+4353  -   TheMiamiGazette.com
+4354  -   The Miami Post
+4355  -   The Newly Press
+4356  -   TheNewYorkEvening.com
+4357  -   The Palmer Report
+4358  -   The Partnership for Safe Medicines
+4359  -   The Patriot Report
+4360  -   The Political Line
+4361  -   The Political Voice
+4362  -   The Politico News
+4363  -   TheRedShtick.com
+4364  -   The Rhode Island Catholic
+4365  -   therightscoop.com
+4366  -   @thesavoyshow
+4367  -   TheSeattleTribune.com
+4368  -   The Sentinel
+4369  -   The Tax Foundation
+4370  -   The Trump Talks
+4371  -   The Walking Dead
+4372  -  Kristi Thibaut
+4373  -  Shawn Thierry
+4374  -  Jeremy Thiesfeldt
+4375  -  Marc Thiessen
+4376  -   Think Big Illinois
+4377  -   ThinkProgress
+4378  -  John Thomaides
+4379  -  Pierre Thomas
+4380  -  Allen Thomas
+4381  -  Clarence Thomas
+4382  -  Bob Thomas
+4383  -  Doug Thomas
+4384  -  Cal Thomas
+4385  -  Chris Thomas
+4386  -  Alisha Thomas Morgan
+4387  -  Craig Thompson
+4388  -  Fred Thompson
+4389  -  Bennie Thompson
+4390  -  Geraldine Thompson
+4391  -  Hugh Thompson
+4392  -  Maurice Thompson
+4393  -  Mike Thompson
+4394  -  Tommy Thompson
+4395  -  Senfronia Thompson
+4396  -  Wayne Thorburn
+4397  -  Woody Thrasher
+4398  -  John Thrasher
+4399  -  Anna Throne-Holst
+4400  -  John Thune
+---- saved progress -----
+4401  -  Tony Thurmond
+4402  -  Michael Thurmond
+4403  -  Perry Thurston
+4404  -  Todd Tiahrt
+4405  -  Bob Tiernan
+4406  -  Tom Tiffany
+4407  -  Matt Tighe
+4408  -   TikTok posts
+4409  -  Rex Tillerson
+4410  -  Thom Tillis
+4411  -  Jerry Tillman
+4412  -  St. Lucia Times
+4413  -  Jane Timken
+4414  -  Phil Ting
+4415  -  Jeff Tittel
+4416  -  Rashida Tlaib
+4417  -   tmzbreaking
+4418  -  Bishop Thomas Tobin
+4419  -   Today News 24
+4420  -  Chuck Todd
+4421  -  Georgians Together
+4422  -  Tom Toles
+4423  -  Lisa Tomasso
+4424  -  Carolyn Tomei
+4425  -  Richard Tomlins
+4426  -   Tomorrow's Vision of Florida
+4427  -  Eric Toney
+4428  -  Jeffrey Toobin
+4429  -  Pat Toomey
+4430  -   Top Stories USA
+4431  -  John Torbett
+4432  -  Raul Torres
+4433  -  David Toscano
+4434  -  Kathie Tovo
+4435  -   Town hall audience member
+4436  -   Traditional Values Coalition
+4437  -  Jack Trammell
+4438  -  Kathy Tran
+4439  -   Transportation Leadership Coalition
+4440  -   Travis County Republican Party
+4441  -  Hilary Treadwell
+4442  -  Brian Treece
+4443  -  Josh Treviño
+4444  -  Laurence Tribe
+4445  -  Joseph Trillo
+4446  -   TriMet
+4447  -  Ellen Troxclair
+4448  -  Steve Troxler
+4449  -  Justin Trudeau
+4450  -   True American
+4451  -   True Pundit
+4452  -   True The Vote
+4453  -  Carlos Trujillo
+4454  -  Eric Trump
+4455  -  Tiffany Trump
+4456  -  Donald Trump
+4457  -  Ivanka Trump
+4458  -  Melania Trump
+4459  -  Donald Trump Jr.
+4460  -   Trusted Leadership PAC
+4461  -   truthcommand.com
+4462  -   Truth Examiner
+4463  -   Truth in Accounting
+4464  -  Viral Truth Wire
+4465  -  Nick Tsiongas
+4466  -  Tommy Tuberville
+4467  -  Garland Tucker
+4468  -  Ed Turanchik
+4469  -  Jonathan Turley
+4470  -  Michael Turner
+4471  -  Shirley Turner
+4472  -  George Turner
+4473  -  Rob Turner
+4474  -  Nina Turner
+4475  -  Jeff Turner
+4476  -  Sylvester Turner
+4477  -  Holly Turner
+4478  -  Eric Turner
+4479  -  Scott Turner
+4480  -   Turning Point USA
+4481  -   Turn Right USA
+4482  -  Mike Turzai
+4483  -  Ron Tusler
+4484  -  Mason Tvert
+4485  -   Tweets
+4486  -   Twentyeightmay
+4487  -  Michael Tyler
+4488  -  Laura Tyson
+4489  -   Uber
+4490  -  Stephen Ucci
+4491  -  Tom Udall
+4492  -  Mark Udall
+4493  -   Ufconly
+4494  -  Robert Uithoven
+4495  -  ActionAid UK
+4496  -   Ultraviolet
+4497  -   Unbreakable Kimmy Schmidt
+4498  -   Uncle Sam's Misguided Children
+4499  -  US Uncut
+4500  -   UndergroundNewsReport.com
+---- saved progress -----
+4501  -  Jill Underly
+4502  -  Bryan Underwood
+4503  -  Ben Unger
+4504  -  UN's UNICEF
+4505  -  Citizens United
+4506  -   United Association’s Union Plumbers and Pipefitters Vote! PAC
+4507  -   United Florida Horsemen
+4508  -   United for a Fair Economy
+4509  -   United for Care
+4510  -   Unite Here Florida PAC
+4511  -   Uniting Missouri PAC
+4512  -   Universal News Portal
+4513  -   UniversePolitics.com
+4514  -   University of Oregon
+4515  -   University of Wisconsin-Madison
+4516  -   University of Wisconsin-Milwaukee
+4517  -  Renee Unterman
+4518  -  Michael Untermeyer
+4519  -  Daily World Update
+4520  -  Fred Upton
+4521  -  Watts Up With That
+4522  -  Hector Uribe
+4523  -  Families USA
+4524  -   USA Daily Portal
+4525  -   USA In Front
+4526  -   USA Liberty Press
+4527  -   USA Snich
+4528  -   USA Trainnews
+4529  -  Daily USA Update
+4530  -   U.S. Chamber of Commerce
+4531  -   US Daily News 24
+4532  -   U.S. Department of Housing and Urban Development
+4533  -   usdeplorablesnews.com
+4534  -  Shaun Usher
+4535  -   U.S. House Democrats
+4536  -   US Political
+4537  -   US Political News
+4538  -   U.S. Senate Democrats
+4539  -  Cenk Uygur
+4540  -  Valerie Vainieri Huttle
+4541  -  Lupe Valdez
+4542  -  Larry Valencia
+4543  -  Sher Valenzuela
+4544  -  Paul Vallas
+4545  -  Paul Valletta
+4546  -  J.D. Van Brink
+4547  -  J.D. Vance
+4548  -  Philip Van Cleave
+4549  -  Katrina vanden Heuvel
+4550  -  Leticia Van de Putte
+4551  -  GayDonna Vandergriff
+4552  -  Michael van der Veen
+4553  -  Terry Van Duyn
+4554  -  J.B. Van Hollen
+4555  -  Chris Van Hollen
+4556  -  Derrick Van Orden
+4557  -  Colin Van Ostern
+4558  -  Cort VanOstran
+4559  -  Greta Van Susteren
+4560  -  Charles Van Zant
+4561  -  Stuart Varney
+4562  -  Jeannette Vaught
+4563  -  Yesli Vega
+4564  -  Ali Velshi
+4565  -  Jesse Ventura
+4566  -   Verified Politics
+4567  -  Project Veritas
+4568  -  Seema Verma
+4569  -   Vermont Democratic Party
+4570  -  Donald Verrilli
+4571  -   Vets for Trump
+4572  -   Vet TV
+4573  -  Science Vibe
+4574  -   Video for Atlanta Super Bowl bid presentation
+4575  -   Vietnam Veterans Against John McCain
+4576  -  Jason Villalba
+4577  -  Antonio Villaraigosa
+4578  -  Mike Villarreal
+4579  -  James Vincent
+4580  -  Alexander Vindman
+4581  -  Kathleen Vinehout
+4582  -  Robyn Vining
+4583  -   Violence Policy Center
+4584  -   Viral image
+4585  -   Viral media reports
+4586  -   Viral Politics US
+4587  -   Viralusa
+4588  -   Virginia Center for Public Safety
+4589  -   Virginia Education Association
+4590  -   Virginia First Foundation
+4591  -   Virginia House Democratic Caucus
+4592  -   Virginia Interfaith Center for Public Policy
+4593  -   Virginia Lottery
+4594  -   Virginia Senate Democratic Caucus
+4595  -   Virginia Senate Democrats
+4596  -   Virginia Society for Human Life
+4597  -   Virginia Tea Party Patriots
+4598  -  Jill Vogel
+4599  -  Jon Voight
+4600  -  George Voinovich
+---- saved progress -----
+4601  -  Joe Volk
+4602  -   Volusia County Republican Party
+4603  -  Hans von Spakovsky
+4604  -  Robin Vos
+4605  -   Vote No On 2
+4606  -   Vote NO on 8
+4607  -   Voters First Ohio
+4608  -   VoteVets
+4609  -   VoteVets.org
+4610  -  Leah Vukmir
+4611  -  Dana Wachs
+4612  -   Waco Tea Party
+4613  -  Jenna Wadsworth
+4614  -  Jeff Wagner
+4615  -  Ann Wagner
+4616  -  Scott Wagner
+4617  -  Zach Wahls
+4618  -  Greg Walden
+4619  -  Jim Waldman
+4620  -  Patrick Wales
+4621  -  Herschel Walker
+4622  -  Cora Faith Walker
+4623  -  Mark Walker
+4624  -  Nate Walker
+4625  -  Scott Walker
+4626  -  Chris Wallace
+4627  -  Monica Wallace
+4628  -  Nicolle Wallace
+4629  -  Scott Wallace
+4630  -  Erik Wallin
+4631  -   Wall Street Journal editorial page
+4632  -   Walmis2018.com
+4633  -  Joe Walsh
+4634  -  Michele Walsh
+4635  -  Robert Walsh
+4636  -  Raymond Walter
+4637  -  Mimi Walters
+4638  -  India Walton
+4639  -  Weston Wamp
+4640  -  Alex Wan
+4641  -  Matt Wand
+4642  -  Van Wanggaard
+4643  -   Wannabe Entertainment
+4644  -  Kelli Ward
+4645  -  Leah Ward Sears
+4646  -  Mark Warner
+4647  -  Raphael Warnock
+4648  -  Lovely Warren
+4649  -  Elizabeth Warren
+4650  -   Washington Examiner
+4651  -  Daily Washington Report
+4652  -   WashingtonSources
+4653  -   Washington State Democratic Party
+4654  -  Debbie Wasserman Schultz
+4655  -   "Watch The Water"
+4656  -  Maxine Waters
+4657  -  Stan Watson
+4658  -  Kirk Watson
+4659  -  Robert Watson
+4660  -  Emma Watson
+4661  -  John Watson
+4662  -  Jesse Watters
+4663  -  Shannon Watts
+4664  -  David Watts
+4665  -   WBN News
+4666  -   We Are Milwaukee
+4667  -   We Are Ohio
+4668  -   We Are Wisconsin
+4669  -  Will Weatherford
+4670  -  Jeff Weaver
+4671  -  Jim Webb
+4672  -  Jay Webber
+4673  -  Uspoln Website
+4674  -  Daniel Webster
+4675  -  Jeff Weems
+4676  -  Monica Wehby
+4677  -  Jim Weidner
+4678  -  Bill Weimer
+4679  -  Loretta Weinberg
+4680  -  Miro Weinberger
+4681  -  Anthony Weiner
+4682  -  Randi Weingarten
+4683  -  Jamie Weinstein
+4684  -  Wawa Welcome America
+4685  -  William Weld
+4686  -  Dave Weldon
+4687  -   We Love USA PAC
+4688  -  Brad Wenstrup
+4689  -  Jeff Wentworth
+4690  -  Beth Wessel-Kroeschell
+4691  -  Bing West
+4692  -  Royce West
+4693  -  Kanye West
+4694  -  Steve West
+4695  -  Cornel West
+4696  -  Allen West
+4697  -  Tim Westley
+4698  -  Lynn Westmoreland
+4699  -   West Virginia Democratic Party
+4700  -   West Virginia Republican Party
+---- saved progress -----
+4701  -   We the People petition
+4702  -  A C Wharton
+4703  -   What Happens in the USA
+4704  -  Ted Wheeler
+4705  -  Liz Wheeler
+4706  -  Jim Whelan
+4707  -  Ed Whitacre
+4708  -  John Whitbeck
+4709  -  Frank White
+4710  -  Mike White
+4711  -  Martina White
+4712  -  Andrew White
+4713  -  James White
+4714  -  Molly White
+4715  -  Stacy White
+4716  -  Bill White
+4717  -  Sheldon Whitehouse
+4718  -  Christine Whitman
+4719  -  Meg Whitman
+4720  -  Gretchen Whitmer
+4721  -  John Whitmire
+4722  -  Lenar Whitney
+4723  -  Doug Whitsett
+4724  -  Jack Whitver
+4725  -  Jonathan Wichmann
+4726  -  Chris Widener
+4727  -  Ben Wikler
+4728  -  Todd Wilcox
+4729  -  Doug Wilder
+4730  -  Jay Wiley
+4731  -  Blaine Wilhour
+4732  -  Joe Wilkinson
+4733  -  Charley Wilkison
+4734  -  George Will
+4735  -  Hannah Willard
+4736  -  Don Willett
+4737  -  Jeff Williams
+4738  -  Mickie Williams
+4739  -  Seth Williams
+4740  -  Michael Williams
+4741  -  Roger Williams
+4742  -  Anastasia Williams
+4743  -  Ash Williams
+4744  -  Jesse Williams
+4745  -  Juan Williams
+4746  -  Michael Williams
+4747  -  Sandra Williams
+4748  -  Nikema Williams
+4749  -  Kyle Williams
+4750  -  Hank Williams Jr.
+4751  -  Marianne Williamson
+4752  -  Jennifer Williamson
+4753  -  Kevin Williamson
+4754  -  David Willis
+4755  -  Valarie Wilson
+4756  -  Harry Wilson
+4757  -  Frederica Wilson
+4758  -  Jenny Wilson
+4759  -  Joe Wilson
+4760  -  Brian Wilson
+4761  -  Matt Wingard
+4762  -  Trey Wingo
+4763  -   Winning Our Future
+4764  -  Cleta Winslow
+4765  -  Pete Winstead
+4766  -  Bob Wirch
+4767  -  Empower Wisconsin
+4768  -  Opportunity Wisconsin
+4769  -   Wisconsin Alliance for Reform
+4770  -   Wisconsin Anti-Violence Effort Educational Fund
+4771  -   Wisconsin Assembly Republicans
+4772  -   Wisconsin Association for Justice
+4773  -   Wisconsin Contractor Coalition
+4774  -   Wisconsin Corn Growers Association
+4775  -   Wisconsin Department of Public Instruction
+4776  -   Wisconsin Department of Transportation
+4777  -   Wisconsin Education Association Council
+4778  -   Wisconsin Family Action
+4779  -   Wisconsin Firearms Coalition
+4780  -   Wisconsin Freedom Alliance
+4781  -   Wisconsin Humane Society
+4782  -   Wisconsin Institute for Law & Liberty
+4783  -   Wisconsin Jobs Now
+4784  -   Wisconsin Legislature Republicans
+4785  -   Wisconsin Manufacturers and Commerce
+4786  -   Wisconsin Medical Society
+4787  -   Wisconsin Professional Police Association
+4788  -   Wisconsin Republican Legislative leaders
+4789  -   Wisconsin Senate Republicans
+4790  -   Wisconsin Sierra Club
+4791  -   Wisconsin State AFL-CIO
+4792  -   Wisconsin state Senate Democrats
+4793  -   Wisconsin Transportation Builders Association
+4794  -   Wisconsin Trump Victory
+4795  -   Wisconsin Working Families Party
+4796  -  Mike Wise
+4797  -  Stephen Wise
+4798  -  John Wisniewski
+4799  -  Doctors Without Borders
+4800  -  Rob Wittman
+---- saved progress -----
+4801  -  Jacob Wohl
+4802  -  Frank Wolf
+4803  -  Chad Wolf
+4804  -  Tom Wolf
+4805  -  Michelle Wolf
+4806  -  Meagan Wolfe
+4807  -  Nelson Wolff
+4808  -  Paul Wolfowitz
+4809  -   Women On the Wall
+4810  -  L. Lin Wood
+4811  -  Genevieve Wood
+4812  -  Karina Wood
+4813  -  Rob Woodall
+4814  -  Brad Woodhouse
+4815  -  Dallas Woodhouse
+4816  -  Richard Woods
+4817  -  James Woods
+4818  -  Chuck Woolery
+4819  -  JD Wooten
+4820  -   Workers' Voice
+4821  -  Ritch Workman
+4822  -  Paul Workman
+4823  -   WorldNetDaily
+4824  -   worldnewsdailyreport.com
+4825  -   world-newss.com
+4826  -  Robin Wright
+4827  -  Robin Wright
+4828  -  Kyleen Wright
+4829  -  Dean Wright
+4830  -   WrongWayRubio.com
+4831  -  Gene Wu
+4832  -  David Wu
+4833  -  Matt Wuerker
+4834  -  Samuel Wurzelbacher
+4835  -  Ron Wyden
+4836  -  Will Wynn
+4837  -  David Wyss
+4838  -  J. Xavier
+4839  -  Li-Meng Yan
+4840  -  Andrew Yang
+4841  -  Larry Yarborough
+4842  -  Kendra Yarbrough Camarena
+4843  -   Yard sign
+4844  -  John Yarmuth
+4845  -  Sally Yates
+4846  -  Janet Yellen
+4847  -   Yes on 10 campaign
+4848  -   Yes on 22
+4849  -   Yes on 55
+4850  -   Yes On 62 campaign to abolish California's death penalty
+4851  -   Yes on 79
+4852  -   Yes on 8
+4853  -   Yes on 82 and 83 campaign
+4854  -   Yes on 84
+4855  -   YG Action Fund
+4856  -  Ted Yoho
+4857  -  Susan Yoshihara
+4858  -  Joseph Yost
+4859  -  Dave Yost
+4860  -  Dana Young
+4861  -  Wendell Young
+4862  -  C.W. Bill Young
+4863  -  Leon Young
+4864  -  Don Young
+4865  -  Todd Young
+4866  -   Young Americans for Liberty
+4867  -   Young America's Foundation
+4868  -   Young Conservatives
+4869  -   Young Conservatives of Texas
+4870  -   Young, Gifted and Black Coalition
+4871  -  Glenn Youngkin
+4872  -   Your Action News 3
+4873  -   Your Choice Colorado
+4874  -   YourContent
+4875  -   YourNewsWire.com
+4876  -   YouTube videos
+4877  -  Eugene Yu
+4878  -  Mark S. Zaccaria
+4879  -  Judith Zaffirini
+4880  -  Fareed Zakaria
+4881  -  Stephen Zappala
+4882  -  Ken Zarifis
+4883  -  Bill Zedler
+4884  -  Jim Zehringer
+4885  -  Lee Zeldin
+4886  -  Lou Ann Zelenik
+4887  -  Joe Zepecki
+4888  -  Rob Zerban
+4889  -  Graeme Zielinski
+4890  -  Tim Ziemer
+4891  -  Jeffrey Zients
+4892  -  Roy Zimmerman
+4893  -  Don Zimmerman
+4894  -  Ryan Zinke
+4895  -  Rich Zipperer
+4896  -  David Zuckerman
+---- saved progress -----
